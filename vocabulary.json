@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "word": "acts",
+    "pronunciation": "/ækts/",
+    "example": "The acts of kindness were appreciated by everyone.",
+    "meaning": "Handlungen oder Taten",
+    "meaning_fa": "عمل یا اقدام",
+    "category": "general"
+  },
+  {
+    "id":2,
+    "word":"interface",
+    "pronunciation": "/ˈɪntərfeɪs/",
+    "example": "The interface between the two systems is crucial for data exchange.",
+    "meaning":"Schnittstelle, Verbindung zwischen zwei Systemen",
+    "meaning_fa": "رابط، ارتباط بین دو سیستم",
+    "category":"technical"
+  },
+  {
+    "id":3,
+    "word":"initializes",
+    "pronunciation": "/ɪˈnɪʃəlaɪz/",
+    "example": "The program initializes the variables before running.",
+    "meaning":"Initialisiert, setzt Anfangswerte",
+    "meaning_fa":"مقداردهی اولیه می‌کند، مقادیر اولیه را تنظیم می‌کند",
+    "category":"technical"
+  },
+  {
+    "id":4,
+    "word":"ensuring",
+    "pronunciation": "/ɪnˈʃʊərɪŋ/",
+    "example": "Ensuring the safety of the workers is a top priority.",
+    "meaning":"Sicherstellen, Gewährleisten",
+    "meaning_fa":"اطمینان حاصل کردن، تضمین کردن",
+    "category":"general"
+  },
+  {
+    "id":5,
+    "word":"contributes",
+    "pronunciation": "/kənˈtrɪbjuːts/",
+    "example": "She contributes a lot to the success of the team.",
+    "meaning":"Beitragen, Mitwirken",
+    "meaning_fa":"مشارکت کردن، همکاری کردن",
+    "category":"general"
+  },
+  {
+    "id":6,
+    "word":"take over",
+    "pronunciation": "/teɪk ˈoʊvər/",
+    "example": "He will take over the project next month.",
+    "meaning":"Übernehmen, Kontrolle übernehmen",
+    "meaning_fa":"تحویل گرفتن، کنترل را به دست گرفتن",
+    "category":"general"
+  },
+    {
+        "id":8,
+        "word":"improves",
+        "pronunciation": "/ɪmˈpruːvz/",
+        "example": "Regular practice improves your skills.",
+        "meaning":"Verbessern, Steigern",
+        "meaning_fa":"بهبود بخشیدن، افزایش دادن",
+        "category":"general"
+    },
+     {
+        "id":7,
+        "word":"Extensible",
+        "pronunciation": "/ɪkˈstɛnsəbl/",
+        "example": "The software is extensible, allowing for future upgrades.",
+        "meaning":"Erweiterbar, Anpassen für zukünftige Erweiterungen",
+        "meaning_fa":"قابل گسترش، امکان ارتقاء در آینده را فراهم می‌کند",
+        "category":"technical"
+    }
+
+]
