@@ -250,6 +250,60 @@
     "meaning":"Grundlegend, Fundamentale",
     "meaning_fa":"اساسی، بنیادی",
     "category":"general"
+    },
+    {
+      "id":29,
+      "word":"maintaining",
+      "pronunciation": "/meɪnˈteɪnɪŋ/",
+      "example": "Maintaining a clean environment is important.",
+      "meaning":"Aufrechterhalten, Beibehalten",
+      "meaning_fa":"نگهداری، حفظ",
+      "category":"general"
+    },
+    {
+    "id":30,
+    "word":"improper",
+    "pronunciation": "/ɪmˈprɒpər/",
+    "example": "The improper use of resources can lead to waste.",
+    "meaning":"Unangemessen, Unrechtmäßig",
+    "meaning_fa":"نامناسب، غیرقانونی",
+    "category":"general"
+    },
+    {
+    "id":31,
+    "word":"breaches",
+    "pronunciation": "/ˈbriːtʃɪz/",
+    "example": "The report highlighted several security breaches.",
+    "meaning":"Verstöße, Brüche",
+    "meaning_fa":"نقض‌ ها، شکاف‌ ها",
+    "category":"general"
+    },
+    {
+    "id":32,
+    "word":"incidents",
+    "pronunciation": "/ˈɪnsɪdənts/",
+    "example": "Several incidents were reported during the event.",
+    "meaning":"Vorfälle, Ereignisse",
+    "meaning_fa":"حادثه‌ها، رویدادها",
+    "category":"general"
+    },
+    {
+    "id":33,
+    "word":"associated",
+    "pronunciation": "/əˈsoʊsiˌeɪtɪd/",
+    "example": "The symptoms associated with the disease can vary widely.",
+    "meaning":"Verbunden, Assoziiert",
+    "meaning_fa":"مرتبط، وابسته",
+    "category":"general"
+    },
+    {
+    "id":34,
+    "word":"rather",
+    "pronunciation": "/ˈræðər/",
+    "example": "I would rather go for a walk than stay indoors.",
+    "meaning":"Eher, Stattdessen",
+    "meaning_fa":"بیشتر، در عوض",
+    "category":"general"
     }
 
 ]
