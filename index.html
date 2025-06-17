@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deutsch Lern-Karteikarten</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="app-header">
+            <h1>Deutsch Lernen</h1>
+            <div class="controls-top">
+                <div class="form-group">
+                    <label for="categoryFilter" class="form-label">Kategorie:</label>
+                    <select id="categoryFilter" class="form-control category-select">
+                        <option value="all">Alle Kategorien</option>
+                        <option value="greetings">Begrüßungen</option>
+                        <option value="food_drink">Essen & Trinken</option>
+                        <option value="home">Zuhause</option>
+                        <option value="education">Bildung</option>
+                        <option value="people">Menschen</option>
+                        <option value="time">Zeit</option>
+                        <option value="emotions">Gefühle</option>
+                        <option value="work">Arbeit</option>
+                    </select>
+                </div>
+                <button id="shuffleBtn" class="btn btn--secondary btn--sm">
+                    <span>🔀</span> Mischen
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Progress Indicator -->
+            <div class="progress-container">
+                <div class="progress-info">
+                    <span id="progressText">1 von 10</span>
+                    <div class="progress-bar">
+                        <div id="progressFill" class="progress-fill"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Flashcard Container -->
+            <div class="flashcard-container">
+                <div id="flashcard" class="flashcard">
+                    <div class="flashcard-inner">
+                        <!-- Front Side -->
+                        <div class="flashcard-front">
+                            <div class="card-content">
+                                <h2 id="frontWord" class="word-text">Hallo</h2>
+                                <p id="frontPronunciation" class="pronunciation-text">/ˈhalo/</p>
+                                <div class="flip-hint">Klicken zum Umdrehen</div>
+                            </div>
+                        </div>
+                        
+                        <!-- Back Side -->
+                        <div class="flashcard-back">
+                            <div class="card-content">
+                                <h2 id="backMeaning" class="meaning-text">Hello</h2>
+                                <div id="backCategory" class="status status--info">greetings</div>
+                                <div class="flip-hint">Klicken zum Umdrehen</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Navigation Controls -->
+            <div class="navigation-controls">
+                <button id="prevBtn" class="btn btn--outline">
+                    ← Zurück
+                </button>
+                <button id="flipBtn" class="btn btn--primary">
+                    Umdrehen
+                </button>
+                <button id="nextBtn" class="btn btn--outline">
+                    Weiter →
+                </button>
+            </div>
+        </main>
+
+        <!-- Footer Controls -->
+        <footer class="app-footer">
+            <div class="footer-controls">
+                <div class="auto-advance-control">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="autoAdvance" class="checkbox">
+                        Auto-Weiter (<span id="timerDisplay">5</span>s)
+                    </label>
+                    <input type="range" id="timerSlider" class="slider" min="3" max="10" value="5">
+                </div>
+                
+                <div class="keyboard-shortcuts">
+                    <h4>Tastenkürzel:</h4>
+                    <div class="shortcuts-grid">
+                        <span><kbd>Leertaste</kbd> Umdrehen</span>
+                        <span><kbd>←</kbd> Zurück</span>
+                        <span><kbd>→</kbd> Weiter</span>
+                        <span><kbd>S</kbd> Mischen</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
