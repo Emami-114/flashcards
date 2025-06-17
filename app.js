@@ -22,8 +22,9 @@ class FlashcardApp {
     this.flashcard = document.getElementById('flashcard');
     this.frontWord = document.getElementById('frontWord');
     this.frontPronunciation = document.getElementById('frontPronunciation');
+    this.exapleSentence = document.getElementById('exampleSentence');
     this.backMeaning = document.getElementById('backMeaning');
-    this.backCategory = document.getElementById('backCategory');
+    this.backMeaningFa = document.getElementById('meaningFa');
     this.progressText = document.getElementById('progressText');
     this.progressFill = document.getElementById('progressFill');
     this.categoryFilter = document.getElementById('categoryFilter');
@@ -114,8 +115,9 @@ class FlashcardApp {
     if (currentCard) {
       this.frontWord.textContent = currentCard.word;
       this.frontPronunciation.textContent = currentCard.pronunciation;
+      this.exapleSentence.textContent = currentCard.example || '';
       this.backMeaning.textContent = currentCard.meaning;
-      this.backCategory.textContent = this.getCategoryDisplayName(currentCard.category);
+      this.backMeaningFa.textContent = currentCard.meaning_fa || '';
     }
   }
 

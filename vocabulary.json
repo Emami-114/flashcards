@@ -70,6 +70,79 @@
         "meaning":"Erweiterbar, Anpassen für zukünftige Erweiterungen",
         "meaning_fa":"قابل گسترش، امکان ارتقاء در آینده را فراهم می‌کند",
         "category":"technical"
+    },
+    {
+        "id":9,
+        "word":"handling",
+        "pronunciation": "/ˈhændlɪŋ/",
+        "example": "Handling customer complaints effectively is essential for business success.",
+        "meaning":"Umgang, Bearbeitung",
+        "meaning_fa":"مدیریت، رسیدگی",
+        "category":"general"
+    },
+    {
+        "id":10,
+        "word":"procedures",
+        "pronunciation": "/prəˈsiːdʒərz/",
+        "example": "The procedures for submitting a claim are outlined in the policy.",
+        "meaning":"Verfahren, Abläufe",
+        "meaning_fa":"رویه‌ها، مراحل",
+        "category":"general"
+    },
+    {
+        "id":11,
+        "word":"sensitive",
+        "pronunciation": "/ˈsɛnsɪtɪv/",
+        "example": "The sensitive data must be protected at all costs.",
+        "meaning":"Empfindlich, Sensibel",
+        "meaning_fa":"حساس، ظریف",
+        "category":"general"
+    },
+    {
+        "id":12,
+        "word":"reliable",
+        "pronunciation": "/rɪˈlaɪəbl/",
+        "example": "A reliable source of information is crucial for making informed decisions.",
+        "meaning":"Zuverlässig, Vertrauenswürdig",
+        "meaning_fa":"قابل اعتماد، معتبر",
+        "category":"general"
+    },
+    {
+        "id":13,
+        "word":"unnecessary",
+        "pronunciation": "/ʌnˈnɛsəˌsɛri/",
+        "example": "Avoid unnecessary expenses to save money.",
+        "meaning":"Unnötig, Überflüssig",
+        "meaning_fa":"غیر ضروری، اضافی",
+        "category":"general"
+    },
+    {
+        "id":14,
+        "word":"malicious",
+        "pronunciation": "/məˈlɪʃəs/",
+        "example": "The malicious software caused significant damage to the system.",
+        "meaning":"Bösartig, Schädlich",
+        "meaning_fa":"بدخواهانه، مخرب",
+        "category":"technical"
+    },
+    {
+        "id":15,
+        "word":"increased",
+        "pronunciation": "/ɪnˈkriːst/",
+        "example": "The company has seen increased sales this quarter.",
+        "meaning":"Erhöht, Angestiegen",
+        "meaning_fa":"افزایش یافته، بالا رفته",
+        "category":"general"
+    },
+    {
+        "id":16,
+        "word":"crucial",
+        "pronunciation": "/ˈkruːʃəl/",
+        "example": "It is crucial to meet the deadline for the project.",
+        "meaning":"Entscheidend, Kritisch",
+        "meaning_fa":"حیاتی، بحرانی",
+        "category":"general"
     }
+   
 
 ]
