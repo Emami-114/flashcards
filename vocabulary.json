@@ -142,7 +142,114 @@
         "meaning":"Entscheidend, Kritisch",
         "meaning_fa":"حیاتی، بحرانی",
         "category":"general"
+    },
+    {
+        "id":17,
+        "word":"acquired",
+        "pronunciation": "/əˈkwaɪərd/",
+        "example": "She acquired a new skill through practice.",
+        "meaning":"Erworben, Angeeignet",
+        "meaning_fa":"کسب شده، به دست آمده",
+        "category":"general"
+    },
+    {
+    "id":18,
+    "word":"vulnerabilities",
+    "pronunciation": "/ˌvʌlnərəˈbɪlɪtiz/",
+    "example": "Identifying vulnerabilities in the system is essential for security.",
+    "meaning":"Schwachstellen, Verwundbarkeiten",
+    "meaning_fa":"آسیب‌پذیری‌ها، نقاط ضعف",
+    "category":"technical"
+    },
+    {
+        "id":19,
+        "word":"broader",
+        "pronunciation": "/ˈbrɔːdər/",
+        "example": "The broader implications of the decision were considered.",
+        "meaning":"Breiter, Umfassender",
+        "meaning_fa":"گسترده‌تر، جامع‌تر",
+        "category":"general"
+    },
+    {
+    "id":20,
+    "word":"maintain",
+    "pronunciation": "/meɪnˈteɪn/",
+    "example": "It is important to maintain a healthy lifestyle.",
+    "meaning":"Aufrechterhalten, Pflegen",
+    "meaning_fa":"نگهداری کردن، حفظ کردن",
+    "category":"general"
+    },
+    {
+    "id":21,
+    "word":"vital",
+    "pronunciation": "/ˈvaɪtəl/",
+    "example": "Water is vital for all forms of life.",
+    "meaning":"Lebenswichtig, Essenziell",
+    "meaning_fa":"حیاتی، ضروری",
+    "category":"general"
+    },
+    {
+    "id":22,
+    "word":"responding",
+    "pronunciation": "/rɪˈspɒndɪŋ/",
+    "example": "The team is responding quickly to customer inquiries.",
+    "meaning":"Reagieren, Antworten",
+    "meaning_fa":"پاسخ دادن، واکنش نشان دادن",
+    "category":"general"
+    },
+    {
+    "id":23,
+    "word":"smooth",
+    "pronunciation": "/smuːð/",
+    "example": "The transition to the new system was smooth and without issues.",
+    "meaning":"Reibungslos, Sanft",
+    "meaning_fa":"بدون مشکل، نرم",
+    "category":"general"
+    },
+    {
+    "id":24,
+    "word":"particularly",
+    "pronunciation": "/pərˈtɪkjələrli/",
+    "example": "She is particularly skilled in data analysis.",
+    "meaning":"Besonders, Insbesondere",
+    "meaning_fa":"به‌ویژه، به‌خصوص",
+    "category":"general"
+    },
+    {
+    "id":25,
+    "word":"enforcing",
+    "pronunciation": "/ɪnˈfɔːrsɪŋ/",
+    "example": "The new law is enforcing stricter regulations on emissions.",
+    "meaning":"Durchsetzen, Erzwingen",
+    "meaning_fa":"اجرا کردن، تحمیل کردن",
+    "category":"general"
+    },
+    {
+    "id":26,
+    "word":"applied",
+    "pronunciation": "/əˈplaɪd/",
+    "example": "The applied research has practical applications in the industry.",
+    "meaning":"Angewendet, Praktisch",
+    "meaning_fa":"کاربردی، عملی",
+    "category":"general"
+    },
+    {
+        "id":27,
+        "word":"interact",
+        "pronunciation": "/ˌɪntərˈækt/",
+        "example": "Students are encouraged to interact with each other during group work.",
+        "meaning":"Interagieren, Wechselwirkung",
+        "meaning_fa":"تعامل کردن، اثر متقابل",
+        "category":"general"
+    },
+    {
+    "id":28,
+    "word":"foundational",
+    "pronunciation": "/faʊnˈdeɪʃənl/",
+    "example": "The foundational principles of the theory are well established.",
+    "meaning":"Grundlegend, Fundamentale",
+    "meaning_fa":"اساسی، بنیادی",
+    "category":"general"
     }
-   
 
 ]
