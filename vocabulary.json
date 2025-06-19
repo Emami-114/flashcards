@@ -1069,5 +1069,86 @@
     "meaning":"Sogar, selbst",
     "meaning_fa":"حتی، خود",
     "category":"general"
+    },
+    {
+    "id":120,
+    "word":"debt",
+    "pronunciation": "/dɛt/",
+    "example": "He is working hard to pay off his debt.",
+    "meaning":"Schuld, Verbindlichkeit",
+    "meaning_fa":"بدهی، تعهد",
+    "category":"general"
+    },
+    {
+    "id":121,
+    "word":"susceptible",
+    "pronunciation": "/səˈsɛptəbl/",
+    "example": "Children are more susceptible to certain diseases.",
+    "meaning":"Anfällig, empfänglich",
+    "meaning_fa":"حساس، مستعد",
+    "category":"general"
+    },
+    {
+      "id":122,
+      "word":"suffer",
+      "pronunciation": "/ˈsʌfər/",
+      "example": "Many people suffer from allergies in the spring.",
+      "meaning":"Leiden, ertragen",
+      "meaning_fa":"رنج بردن، تحمل کردن",
+      "category":"general"
+    },
+    {
+    "id":123,
+    "word":"exploration",
+    "pronunciation": "/ˌɛksplɔːˈreɪʃən/",
+    "example": "The exploration of space is a fascinating subject.",
+    "meaning":"Erforschung, Entdeckung",
+    "meaning_fa":"اکتشاف، کشف",
+    "category":"general"
+    },
+    {
+    "id":124,
+    "word":"delves",
+    "pronunciation": "/dɛlvz/",
+    "example": "The research delves into the complexities of human behavior.",
+    "meaning":"Eintauchen, vertiefen",
+    "meaning_fa":"غوطه‌ور شدن، عمیق شدن",
+    "category":"general"
+    },
+    {
+      "id" :125,
+      "word":"gather",
+      "pronunciation": "/ˈɡæðər/",
+      "example": "We need to gather more information before making a decision.",
+      "meaning":"Versammeln, sammeln",
+      "meaning_fa":"جمع‌آوری، گردآوری",
+      "category":"general"
+    },
+    {
+      "id":126,
+      "word":"introduce",
+      "pronunciation": "/ˌɪntrəˈdjuːs/",
+      "example": "Let me introduce you to our new team member.",
+      "meaning":"Einführen, vorstellen",
+      "meaning_fa":"معرفی کردن، ارائه دادن",
+      "category":"general"
+    },
+    {
+      "id": 127,
+      "word":"enhancement",
+      "pronunciation": "/ɪnˈhænsmənt/",
+      "example": "The software update includes several enhancements.",
+      "meaning":"Verbesserung, Steigerung",
+      "meaning_fa":"بهبود، افزایش",
+      "category":"general"
+    },
+    {
+      "id" :128,
+      "word":"leverage",
+      "pronunciation": "/ˈlɛvərɪdʒ/",
+      "example": "We can leverage our existing resources to improve efficiency.",
+      "meaning":"Nutzen, Einfluss",
+      "meaning_fa":"استفاده، نفوذ",
+      "category":"general"
     }
 ]
