@@ -1150,5 +1150,158 @@
       "meaning":"Nutzen, Einfluss",
       "meaning_fa":"استفاده، نفوذ",
       "category":"general"
+    },
+    {
+      "id" :129,
+      "word":"encompasses",
+      "pronunciation": "/inˈkəmpəsɪz/",
+      "example": "The project encompasses a wide range of activities.",
+      "meaning":"Umfassen, beinhalten",
+      "meaning_fa":"شامل شدن، دربرگرفتن",
+      "category":"general"
+    },
+    {
+      "id" :130,
+      "word":"preventing",
+      "pronunciation": "/prɪˈvɛntɪŋ/",
+      "example": "Preventing accidents is a top priority for the safety team.",
+      "meaning":"Verhindern, vorbeugen",
+      "meaning_fa":"جلوگیری کردن، پیشگیری",
+      "category":"general"
+    },
+    {
+      "id" :131,
+      "word":"evident",
+      "pronunciation": "/ˈɛvɪdənt/",
+      "example": "The benefits of the new policy are evident in the results.",
+      "meaning":"Offensichtlich, klar",
+      "meaning_fa":"مشهود، واضح",
+      "category":"general"
+    },
+    {
+      "id" :132,
+      "word":"resilient",
+      "pronunciation": "rəˈzilēənt",
+      "example": "The community is resilient and has recovered quickly from the disaster.",
+      "meaning":"Widerstandsfähig, belastbar",
+      "meaning_fa":"مقاوم، انعطاف‌پذیر",
+      "category":"general"
+    },
+    {
+      "id" : 133,
+      "word":"sustain",
+      "pronunciation": "/səˈsteɪn/",
+      "example": "We need to sustain our efforts to achieve long-term success.",
+      "meaning":"Aufrechterhalten, unterstützen",
+      "meaning_fa":"حفظ کردن، پشتیبانی کردن",
+      "category":"general"
+    },
+    {
+      "id" : 134,
+      "word":"redeploying",
+      "pronunciation": "/ˌriːdɪˈplɔɪŋ/",
+      "example": "The company is redeploying resources to focus on new projects.",
+      "meaning":"Umverteilung, Neuzuordnung",
+      "meaning_fa":"توزیع مجدد، تخصیص مجدد",
+      "category":"general"
+    },
+    {
+      "id" : 135,
+      "word":"proficiency",
+      "pronunciation": "/prəˈfɪʃənsi/",
+      "example": "Her proficiency in multiple languages is impressive.",
+      "meaning":"Fähigkeit, Kompetenz",
+      "meaning_fa":"مهارت، صلاحیت",
+      "category":"general"
+    },
+    {
+     "id" :136,
+      "word":"consideration",
+      "pronunciation": "/kənˌsɪdəˈreɪʃən/",
+      "example": "The committee took several factors into consideration before making a decision.",
+      "meaning":"Berücksichtigung, Überlegung",
+      "meaning_fa":"ملاحظه، در نظر گرفتن",
+      "category":"general" 
+    },
+    {
+      "id":137,
+      "word":"involves",
+      "pronunciation": "/ɪnˈvɒlvz/",
+      "example": "The project involves multiple stakeholders and requires careful planning.",
+      "meaning":"Beteiligen, einbeziehen",
+      "meaning_fa":"شامل شدن، درگیر کردن",
+      "category":"general"
+    },
+    {
+      "id":138,
+      "word":"preservation",
+      "pronunciation": "/ˌprɛzərˈveɪʃən/",
+      "example": "The preservation of historical sites is important for cultural heritage.",
+      "meaning":"Erhaltung, Bewahrung",
+      "meaning_fa":"حفظ، نگهداری",
+      "category":"general"
+    },
+    {
+      "id" :139,
+      "word":"suitable",
+      "pronunciation": "/ˈsuːtəbl/",
+      "example": "This software is suitable for both beginners and advanced users.",
+      "meaning":"Geeignet, passend",
+      "meaning_fa":"مناسب، صحیح",
+      "category":"general"
+    },
+    {
+      "id" :140,
+      "word":"obvious",
+      "pronunciation": "/ˈɒbviəs/",
+      "example": "The solution to the problem was obvious once we analyzed the data.",
+      "meaning":"Offensichtlich, klar",
+      "meaning_fa":"مشهود، واضح",
+      "category":"general"
+    },
+    {
+      "id" :141,
+      "word":"distros",
+      "pronunciation": "/ˈdɪstrəʊz/",
+      "example": "There are many Linux distros available, each with its own features.",
+      "meaning":"Distributionen, Distro",
+      "meaning_fa":"توزیع‌ها، دیسترو",
+      "category":"general"
+    },
+    {
+      "id" : 142,
+      "word":"distribution",
+      "pronunciation": "/ˌdɪstrɪˈbjuːʃən/",
+      "example": "The distribution of resources was managed efficiently.",
+      "meaning":"Verteilung, Distribution",
+      "meaning_fa":"توزیع، پخش",
+      "category":"general"
+    },
+    {
+      "id" : 143,
+      "word":"thereby",
+      "pronunciation": "/ˈðɛrbaɪ/",
+      "example": "The new policy was implemented, thereby improving efficiency.",
+      "meaning":"Dadurch, damit",
+      "meaning_fa":"بنابراین، به این ترتیب",
+      "category":"general"
+    },
+    {
+      "id" : 144,
+      "word":"emphasizes",
+      "pronunciation": "/ˈɛmfəsaɪzɪz/",
+      "example": "The report emphasizes the importance of data security.",
+      "meaning":"Betont, hervorhebt",
+      "meaning_fa":"تأکید می‌کند، برجسته می‌کند",
+      "category":"general"
+    },
+    {
+      "id" : 145,
+      "word":"exploit",
+      "pronunciation": "/ɪkˈsplɔɪt/",
+      "example": "The software was designed to exploit system vulnerabilities.",
+      "meaning":"Ausnutzen, ausbeuten",
+      "meaning_fa":"سوءاستفاده کردن، بهره‌برداری کردن",
+      "category":"general"
     }
-]
+  ]
