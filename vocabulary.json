@@ -1474,6 +1474,15 @@
       "meaning":"Bewertet, eingeschätzt",
       "meaning_fa":"ارزیابی شده، تخمین زده شده",
       "category":"general"
+    },
+    {
+      "id" : 165,
+      "word":"mentions",
+      "pronunciation": "/ˈmɛnʃənz/",
+      "example": "The report mentions several key findings from the research.",
+      "meaning":"Erwähnt, erwähnt",
+      "meaning_fa":"ذکر می‌کند، اشاره می‌کند",
+      "category":"general"
     }
 
   ]
