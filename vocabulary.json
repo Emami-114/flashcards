@@ -1228,7 +1228,7 @@
       "word":"involves",
       "pronunciation": "/ɪnˈvɒlvz/",
       "example": "The project involves multiple stakeholders and requires careful planning.",
-      "meaning":"Beteiligen, einbeziehen",
+      "meaning":"Beteiligen, beinhaltet, einbeziehen",
       "meaning_fa":"شامل شدن، درگیر کردن",
       "category":"general"
     },
@@ -1303,5 +1303,96 @@
       "meaning":"Ausnutzen, ausbeuten",
       "meaning_fa":"سوءاستفاده کردن، بهره‌برداری کردن",
       "category":"general"
+    },
+    {
+      "id" : 146,
+      "word":"cornerstone",
+      "pronunciation": "/ˈkɔːrnərstoʊn/",
+      "example": "Trust is the cornerstone of any successful relationship.",
+      "meaning":"Grundpfeiler, Grundstein, Eckstein",
+      "meaning_fa":"سنگ بنای، اساس",
+      "category":"general"
+    },
+    {
+      "id" : 147,
+      "word":"possession",
+      "pronunciation": "/pəˈzɛʃən/",
+      "example": "The possession of illegal drugs is a serious offense.",
+      "meaning":"Besitz, Eigentum",
+      "meaning_fa":"مالکیت، دارایی",
+      "category":"general"
+    },
+    {
+      "id" : 148,
+      "word":"stolen",
+      "pronunciation": "/ˈstoʊlən/",
+      "example": "The stolen car was found abandoned in a parking lot.",
+      "meaning":"Gestohlen, entwendet",
+      "meaning_fa":"دزدیده شده، سرقت شده",
+      "category":"general"
+    },
+    {
+      "id" : 149,
+      "word":"compromised",
+      "pronunciation": "/ˈkɒmprəmaɪzd/",
+      "example": "The security breach compromised sensitive data.",
+      "meaning":"Kompromittiert, gefährdet",
+      "meaning_fa":"به خطر افتاده، آسیب دیده",
+      "category":"general"
+    },
+    {
+      "id" : 150,
+      "word":"interoperability",
+      "pronunciation": "/ˌɪntərˌɒpərəˈbɪləti/",
+      "example": "Interoperability between different systems is crucial for seamless communication.",
+      "meaning":"Interoperabilität, Kompatibilität",
+      "meaning_fa":"قابلیت همکاری، سازگاری",
+      "category":"general"
+    },
+    {
+      "id" : 151,
+      "word":"relies",
+      "pronunciation": "/rɪˈlaɪz/",
+      "example": "The success of the project relies on effective teamwork.",
+      "meaning":"Verlässt sich, angewiesen",
+      "meaning_fa":"متکی است، وابسته است",
+      "category":"general"
+    },
+    {
+      "id" : 152,
+      "word":"interception",
+      "pronunciation": "/ˌɪntərˈsɛpʃən/",
+      "example": "The interception of the message prevented a potential security breach.",
+      "meaning":"Abfangen, Unterbrechung",
+      "meaning_fa":"گرفتن، قطع ارتباط",
+      "category":"general"
+    },
+    {
+      "id" : 153,
+      "word":"Despite",
+      "pronunciation": "/dɪˈspaɪt/",
+      "example": "Despite the challenges, the team managed to complete the project on time.",
+      "meaning":"Trotz, ungeachtet",
+      "meaning_fa":"با وجود، علی‌رغم",
+      "category":"general"
+    },
+    {
+      "id" : 154,
+      "word":"confined",
+      "pronunciation": "/kənˈfaɪnd/",
+      "example": "The patient was confined to bed rest for a week.",
+      "meaning":"Begrenzt, eingeschränkt",
+      "meaning_fa":"محدود شده، محصور شده",
+      "category":"general"
+    },
+    {
+      "id" : 155,
+      "word":"realms",
+      "pronunciation": "/rɛlmz/",
+      "example": "The realms of science and technology are constantly evolving.",
+      "meaning":"Bereiche, Reiche",
+      "meaning_fa":"حوزه‌ها، قلمروها",
+      "category":"general"
     }
+
   ]
