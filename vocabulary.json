@@ -1393,6 +1393,87 @@
       "meaning":"Bereiche, Reiche",
       "meaning_fa":"حوزه‌ها، قلمروها",
       "category":"general"
+    },
+    {
+      "id" : 156,
+      "word":"adopted",
+      "pronunciation": "/əˈdɒptɪd/",
+      "example": "The company adopted a new policy to improve employee satisfaction.",
+      "meaning":"Angepasst, übernommen",
+      "meaning_fa":"پذیرفته شده، اتخاذ شده",
+      "category":"general"
+    },
+    {
+      "id" : 157,
+      "word":"equipping",
+      "pronunciation": "/ɪˈkwɪpɪŋ/",
+      "example": "The school is equipping classrooms with the latest technology.",
+      "meaning":"Ausrüsten, ausstatten",
+      "meaning_fa":"تجهیز کردن، آماده‌سازی",
+      "category":"general"
+    },
+    {
+      "id" : 158,
+      "word":"consciously",
+      "pronunciation": "/ˈkɒnʃəsli/",
+      "example": "She made a conscious effort to improve her time management skills.",
+      "meaning":"Bewusst, absichtlich",
+      "meaning_fa":"آگاهانه، عمدی",
+      "category":"general"
+    },
+    {
+      "id" : 159,
+      "word":"conscious",
+      "pronunciation": "/ˈkɒnʃəs/",
+      "example": "He was conscious of the impact his actions would have on the team.",
+      "meaning":"Bewusst, achtsam",
+      "meaning_fa":"آگاه، هوشیار",
+      "category":"general"
+    },
+    {
+      "id" : 160,
+      "word":"occupies",
+      "pronunciation": "/ˈɒkjʊpaɪz/",
+      "example": "The role of the manager occupies a central position in the organization.",
+      "meaning":"Besetzt, einnimmt",
+      "meaning_fa":"اشغال کردن، تصرف کردن",
+      "category":"general"
+    },
+    {
+      "id" : 161,
+      "word":"invokes",
+      "pronunciation": "/ɪnˈvoʊks/",
+      "example": "The software invokes several APIs to retrieve data.",
+      "meaning":"Aufruft, anruft",
+      "meaning_fa":"فراخوانی می‌کند، درخواست می‌کند",
+      "category":"general"
+    },
+    {
+      "id" : 162,
+      "word":"elevated",
+      "pronunciation": "/ˈɛlɪveɪtɪd/",
+      "example": "The elevated train provides a unique view of the city.",
+      "meaning":"Erhöht, angehoben",
+      "meaning_fa":"بالا رفته، بلند شده",
+      "category":"general"
+    },
+    {
+      "id" : 163,
+      "word":"distributed",
+      "pronunciation": "/dɪsˈtrɪbjuːtɪd/",
+      "example": "The distributed system allows for better resource management.",
+      "meaning":"Verteilt, verteilt",
+      "meaning_fa":"توزیع شده، پخش شده",
+      "category":"general"
+    },
+    {
+      "id" : 164,
+      "word":"assessed",
+      "pronunciation": "/əˈsɛst/",
+      "example": "The project's risks were assessed before proceeding.",
+      "meaning":"Bewertet, eingeschätzt",
+      "meaning_fa":"ارزیابی شده، تخمین زده شده",
+      "category":"general"
     }
 
   ]
