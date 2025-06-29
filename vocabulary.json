@@ -1483,6 +1483,42 @@
       "meaning":"Erwähnt, erwähnt",
       "meaning_fa":"ذکر می‌کند، اشاره می‌کند",
       "category":"general"
+    },
+    {
+      "id" : 166,
+      "word":"driving me crazy",
+      "pronunciation": "/ˈdraɪvɪŋ miː ˈkreɪzi/",
+      "example": "The constant noise from the construction site is driving me crazy.",
+      "meaning":"Macht mich verrückt",
+      "meaning_fa":"دارم دیوانه می‌شوم",
+      "category":"general"
+    },
+    {
+      "id" : 167,
+      "word":"it won't print",
+      "pronunciation": "/ɪt woʊnt prɪnt/",
+      "example": "The printer is malfunctioning; it won't print any documents.",
+      "meaning":"Es druckt nicht",
+      "meaning_fa":"پرینتر کار نمی‌کند",
+      "category":"general"
+    },
+    {
+      "id" : 168,
+      "word":"Don't bother",
+      "pronunciation": "/doʊnt ˈbɑːðər/",
+      "example": "Don't bother trying to fix it; it's beyond repair.",
+      "meaning":"Mach dir keine Mühe",
+      "meaning_fa":"زحمت نکش، تلاش نکن",
+      "category":"general"
+    },
+    {
+      "id" : 169,
+      "word":"obsolete",
+      "pronunciation": "/ˌɒbsəˈliːt/",
+      "example": "The technology is now considered obsolete and has been replaced by newer systems.",
+      "meaning":"Veraltet, obsolet",
+      "meaning_fa":"منسوخ، قدیمی",
+      "category":"general"
     }
 
   ]
