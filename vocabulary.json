@@ -1519,6 +1519,51 @@
       "meaning":"Veraltet, obsolet",
       "meaning_fa":"منسوخ، قدیمی",
       "category":"general"
+    },
+    {
+      "id" : 170,
+      "word":"under suspicion",
+      "pronunciation": "/ˈʌndər səˈspɪʃən/",
+      "example": "The employee was under suspicion of leaking confidential information.",
+      "meaning":"Unter Verdacht",
+      "meaning_fa":"زیر سوال، مشکوک",
+      "category":"general"
+    },
+    {
+      "id" : 171,
+      "word":"precaution",
+      "pronunciation": "/prɪˈkɔːʃən/",
+      "example": "Taking precautions can help prevent accidents in the workplace.",
+      "meaning":"Vorsichtsmaßnahme, Vorsorge",
+      "meaning_fa":"اقدام احتیاطی، پیشگیری",
+      "category":"general"
+    },
+    {
+      "id" : 172,
+      "word":"anyway",
+      "pronunciation": "/ˈɛniweɪ/",
+      "example": "I didn't like the movie, but I went to see it anyway.",
+      "meaning":"Trotzdem, jedenfalls",
+      "meaning_fa":"به هر حال، در هر صورت",
+      "category":"general"
+    },
+    {
+      "id" : 173,
+      "word":"intercepts",
+      "pronunciation": "/ˈɪntərsɛpts/",
+      "example": "The security system intercepts unauthorized access attempts.",
+      "meaning":"Abfängt, unterbricht",
+      "meaning_fa":"گرفتن، قطع کردن",
+      "category":"general"
+    },
+    {
+      "id" : 174,
+      "word":"remediation",
+      "pronunciation": "/rɪˌmiːdiˈeɪʃən/",
+      "example": "The company implemented remediation measures to address the security vulnerabilities.",
+      "meaning":"Behebung, Sanierung",
+      "meaning_fa":"اصلاح، ترمیم",
+      "category":"general"
     }
 
   ]
