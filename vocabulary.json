@@ -1564,6 +1564,24 @@
       "meaning":"Behebung, Sanierung",
       "meaning_fa":"اصلاح، ترمیم",
       "category":"general"
+    },
+    {
+      "id" : 175,
+      "word":"Conclusion",
+      "pronunciation": "/kənˈkluːʒən/",
+      "example": "In conclusion, the project was a success and met all objectives.",
+      "meaning":"Schlussfolgerung, Fazit",
+      "meaning_fa":"نتیجه‌گیری، جمع‌بندی",
+      "category":"general"
+    },
+    {
+      "id" : 176,
+      "word":"Prohibited",
+      "pronunciation": "/prəˈhɪbɪtɪd/",
+      "example": "Smoking is prohibited in all public buildings.",
+      "meaning":"Verboten, untersagt",
+      "meaning_fa":"ممنوع، غیرمجاز",
+      "category":"general"
     }
 
   ]
