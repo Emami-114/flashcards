@@ -1582,6 +1582,59 @@
       "meaning":"Verboten, untersagt",
       "meaning_fa":"ممنوع، غیرمجاز",
       "category":"general"
+    },
+    {
+      "id" : 177,
+      "word":"inconvenience",
+      "pronunciation": "/ˌɪnkənˈviːniəns/",
+      "example": "We apologize for any inconvenience caused by the delay.",
+      "meaning":"Unannehmlichkeit, Unbequemlichkeit",
+      "meaning_fa":"ناراحتی، مزاحمت",
+      "category":"general"
+    },
+    {
+      "id" : 178,
+      "word":"concerned",
+      "pronunciation": "/kənˈsɜːrnd/",
+      "example": "The manager is concerned about the project's progress.",
+      "meaning":"Besorgt, betroffen",
+      "meaning_fa":"نگران، مربوط",
+      "category":"general"
+    },
+    {
+      "id" : 179,
+      "word":"occasionally",
+      "pronunciation": "/əˈkeɪʒənəli/",
+      "example": "We occasionally hold team-building events to improve morale.",
+      "meaning":"Gelegentlich, ab und zu",
+      "meaning_fa":"گاهی اوقات، گهگاه",
+      "category":"general"
+    },
+    {
+      "id" : 180,
+      "word":"infect",
+      "pronunciation": "/ɪnˈfɛkt/",
+      "example": "The virus can infect computers through malicious software.",
+      "meaning":"Infizieren, anstecken",
+      "meaning_fa":"آلوده کردن، عفونی کردن",
+      "category":"general"
+    },
+    {
+      "id" : 181,
+      "word":"realizes",
+      "pronunciation": "/ˈriːəlaɪzɪz/",
+      "example": "She realizes the importance of regular backups to prevent data loss.",
+      "meaning":"Erkennt, realisiert",
+      "meaning_fa":"درک می‌کند، متوجه می‌شود",
+      "category":"general"
+    },
+    {
+      "id" : 182,
+      "word":"participants",
+      "pronunciation": "/pɑːrˈtɪsɪpənts/",
+      "example": "The participants in the workshop shared their experiences and insights.",
+      "meaning":"Teilnehmer, Mitwirkende",
+      "meaning_fa":"شرکت‌کنندگان، مشارکت‌کنندگان",
+      "category":"general"
     }
-
   ]
