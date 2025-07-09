@@ -1636,5 +1636,59 @@
       "meaning":"Teilnehmer, Mitwirkende",
       "meaning_fa":"شرکت‌کنندگان، مشارکت‌کنندگان",
       "category":"general"
+    },
+    {
+      "id" : 183,
+      "word":"avoid distractions",
+      "pronunciation": "/əˈvɔɪd dɪsˈtrækʃənz/",
+      "example": "To be productive, it's important to avoid distractions while working.",
+      "meaning":"Ablenkungen vermeiden",
+      "meaning_fa":"از حواس‌پرتی‌ها پرهیز کنید",
+      "category":"general"
+    },
+    {
+      "id" : 184,
+      "word":"attempting",
+      "pronunciation": "/əˈtɛmptɪŋ/",
+      "example": "The team is attempting to resolve the issue as quickly as possible.",
+      "meaning":"Versuchen, versuchen",
+      "meaning_fa":"تلاش کردن، کوشش کردن",
+      "category":"general"
+    },
+    {
+      "id" : 185,
+      "word":"compliance",
+      "pronunciation": "/kəmˈplaɪəns/",
+      "example": "The company is committed to ensuring compliance with all regulations.",
+      "meaning":"Einhaltung, Konformität",
+      "meaning_fa":"رعایت، تطابق",
+      "category":"general"
+    },
+    {
+      "id" : 186,
+      "word":"a user claims",
+      "pronunciation": "/ə ˈjuːzər kleɪmz/",
+      "example": "A user claims that the software has improved their productivity.",
+      "meaning":"Ein Benutzer behauptet",
+      "meaning_fa":"یک کاربر ادعا می‌کند",
+      "category":"general"
+    },
+    {
+      "id" : 187,
+      "word":"instruct",
+      "pronunciation": "/ɪnˈstrʌkt/",
+      "example": "The teacher will instruct the students on how to use the new software.",
+      "meaning":"Anweisen, instruieren",
+      "meaning_fa":"دستور دادن، آموزش دادن",
+      "category":"general"
+    },
+    {
+      "id" : 188,
+      "word":"indicate",
+      "pronunciation": "/ˈɪndɪkeɪt/",
+      "example": "The data indicates a significant increase in sales over the last quarter.",
+      "meaning":"Anzeigen, hinweisen",
+      "meaning_fa":"نشان دادن، اشاره کردن",
+      "category":"general"
     }
   ]
