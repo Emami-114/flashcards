@@ -53,106 +53,106 @@
     "meaning_fa":"تحویل گرفتن، کنترل را به دست گرفتن",
     "category":"general"
   },
-    {
-        "id":8,
-        "word":"improves",
-        "pronunciation": "/ɪmˈpruːvz/",
-        "example": "Regular practice improves your skills.",
-        "meaning":"Verbessern, Steigern",
-        "meaning_fa":"بهبود بخشیدن، افزایش دادن",
-        "category":"general"
-    },
-     {
-        "id":7,
-        "word":"Extensible",
-        "pronunciation": "/ɪkˈstɛnsəbl/",
-        "example": "The software is extensible, allowing for future upgrades.",
-        "meaning":"Erweiterbar, Anpassen für zukünftige Erweiterungen",
-        "meaning_fa":"قابل گسترش، امکان ارتقاء در آینده را فراهم می‌کند",
-        "category":"technical"
-    },
-    {
-        "id":9,
-        "word":"handling",
-        "pronunciation": "/ˈhændlɪŋ/",
-        "example": "Handling customer complaints effectively is essential for business success.",
-        "meaning":"Umgang, Bearbeitung",
-        "meaning_fa":"مدیریت، رسیدگی",
-        "category":"general"
-    },
-    {
-        "id":10,
-        "word":"procedures",
-        "pronunciation": "/prəˈsiːdʒərz/",
-        "example": "The procedures for submitting a claim are outlined in the policy.",
-        "meaning":"Verfahren, Abläufe",
-        "meaning_fa":"رویه‌ها، مراحل",
-        "category":"general"
-    },
-    {
-        "id":11,
-        "word":"sensitive",
-        "pronunciation": "/ˈsɛnsɪtɪv/",
-        "example": "The sensitive data must be protected at all costs.",
-        "meaning":"Empfindlich, Sensibel",
-        "meaning_fa":"حساس، ظریف",
-        "category":"general"
-    },
-    {
-        "id":12,
-        "word":"reliable",
-        "pronunciation": "/rɪˈlaɪəbl/",
-        "example": "A reliable source of information is crucial for making informed decisions.",
-        "meaning":"Zuverlässig, Vertrauenswürdig",
-        "meaning_fa":"قابل اعتماد، معتبر",
-        "category":"general"
-    },
-    {
-        "id":13,
-        "word":"unnecessary",
-        "pronunciation": "/ʌnˈnɛsəˌsɛri/",
-        "example": "Avoid unnecessary expenses to save money.",
-        "meaning":"Unnötig, Überflüssig",
-        "meaning_fa":"غیر ضروری، اضافی",
-        "category":"general"
-    },
-    {
-        "id":14,
-        "word":"malicious",
-        "pronunciation": "/məˈlɪʃəs/",
-        "example": "The malicious software caused significant damage to the system.",
-        "meaning":"Bösartig, Schädlich",
-        "meaning_fa":"بدخواهانه، مخرب",
-        "category":"technical"
-    },
-    {
-        "id":15,
-        "word":"increased",
-        "pronunciation": "/ɪnˈkriːst/",
-        "example": "The company has seen increased sales this quarter.",
-        "meaning":"Erhöht, Angestiegen",
-        "meaning_fa":"افزایش یافته، بالا رفته",
-        "category":"general"
-    },
-    {
-        "id":16,
-        "word":"crucial",
-        "pronunciation": "/ˈkruːʃəl/",
-        "example": "It is crucial to meet the deadline for the project.",
-        "meaning":"Entscheidend, Kritisch",
-        "meaning_fa":"حیاتی، بحرانی",
-        "category":"general"
-    },
-    {
-        "id":17,
-        "word":"acquired",
-        "pronunciation": "/əˈkwaɪərd/",
-        "example": "She acquired a new skill through practice.",
-        "meaning":"Erworben, Angeeignet",
-        "meaning_fa":"کسب شده، به دست آمده",
-        "category":"general"
-    },
-    {
+  {
+    "id":8,
+    "word":"improves",
+    "pronunciation": "/ɪmˈpruːvz/",
+    "example": "Regular practice improves your skills.",
+    "meaning":"Verbessern, Steigern",
+    "meaning_fa":"بهبود بخشیدن، افزایش دادن",
+    "category":"general"
+  },
+  {
+    "id":7,
+    "word":"Extensible",
+    "pronunciation": "/ɪkˈstɛnsəbl/",
+    "example": "The software is extensible, allowing for future upgrades.",
+    "meaning":"Erweiterbar, Anpassen für zukünftige Erweiterungen",
+    "meaning_fa":"قابل گسترش، امکان ارتقاء در آینده را فراهم می‌کند",
+    "category":"technical"
+  },
+  {
+    "id":9,
+    "word":"handling",
+    "pronunciation": "/ˈhændlɪŋ/",
+    "example": "Handling customer complaints effectively is essential for business success.",
+    "meaning":"Umgang, Bearbeitung",
+    "meaning_fa":"مدیریت، رسیدگی",
+    "category":"general"
+  },
+  {
+    "id":10,
+    "word":"procedures",
+    "pronunciation": "/prəˈsiːdʒərz/",
+    "example": "The procedures for submitting a claim are outlined in the policy.",
+    "meaning":"Verfahren, Abläufe",
+    "meaning_fa":"رویه‌ها، مراحل",
+    "category":"general"
+  },
+  {
+    "id":11,
+    "word":"sensitive",
+    "pronunciation": "/ˈsɛnsɪtɪv/",
+    "example": "The sensitive data must be protected at all costs.",
+    "meaning":"Empfindlich, Sensibel",
+    "meaning_fa":"حساس، ظریف",
+    "category":"general"
+  },
+  {
+    "id":12,
+    "word":"reliable",
+    "pronunciation": "/rɪˈlaɪəbl/",
+    "example": "A reliable source of information is crucial for making informed decisions.",
+    "meaning":"Zuverlässig, Vertrauenswürdig",
+    "meaning_fa":"قابل اعتماد، معتبر",
+    "category":"general"
+  },
+  {
+    "id":13,
+    "word":"unnecessary",
+    "pronunciation": "/ʌnˈnɛsəˌsɛri/",
+    "example": "Avoid unnecessary expenses to save money.",
+    "meaning":"Unnötig, Überflüssig",
+    "meaning_fa":"غیر ضروری، اضافی",
+    "category":"general"
+  },
+  {
+    "id":14,
+    "word":"malicious",
+    "pronunciation": "/məˈlɪʃəs/",
+    "example": "The malicious software caused significant damage to the system.",
+    "meaning":"Bösartig, Schädlich",
+    "meaning_fa":"بدخواهانه، مخرب",
+    "category":"technical"
+  },
+  {
+    "id":15,
+    "word":"increased",
+    "pronunciation": "/ɪnˈkriːst/",
+    "example": "The company has seen increased sales this quarter.",
+    "meaning":"Erhöht, Angestiegen",
+    "meaning_fa":"افزایش یافته، بالا رفته",
+    "category":"general"
+  },
+  {
+    "id":16,
+    "word":"crucial",
+    "pronunciation": "/ˈkruːʃəl/",
+    "example": "It is crucial to meet the deadline for the project.",
+    "meaning":"Entscheidend, Kritisch",
+    "meaning_fa":"حیاتی، بحرانی",
+    "category":"general"
+  },
+  {
+    "id":17,
+    "word":"acquired",
+    "pronunciation": "/əˈkwaɪərd/",
+    "example": "She acquired a new skill through practice.",
+    "meaning":"Erworben, Angeeignet",
+    "meaning_fa":"کسب شده، به دست آمده",
+    "category":"general"
+  },
+  {
     "id":18,
     "word":"vulnerabilities",
     "pronunciation": "/ˌvʌlnərəˈbɪlɪtiz/",
@@ -160,17 +160,17 @@
     "meaning":"Schwachstellen, Verwundbarkeiten",
     "meaning_fa":"آسیب‌پذیری‌ها، نقاط ضعف",
     "category":"technical"
-    },
-    {
-        "id":19,
-        "word":"broader",
-        "pronunciation": "/ˈbrɔːdər/",
-        "example": "The broader implications of the decision were considered.",
-        "meaning":"Breiter, Umfassender",
-        "meaning_fa":"گسترده‌تر، جامع‌تر",
-        "category":"general"
-    },
-    {
+  },
+  {
+    "id":19,
+    "word":"broader",
+    "pronunciation": "/ˈbrɔːdər/",
+    "example": "The broader implications of the decision were considered.",
+    "meaning":"Breiter, Umfassender",
+    "meaning_fa":"گسترده‌تر، جامع‌تر",
+    "category":"general"
+  },
+  {
     "id":20,
     "word":"maintain",
     "pronunciation": "/meɪnˈteɪn/",
@@ -178,8 +178,8 @@
     "meaning":"Aufrechterhalten, Pflegen",
     "meaning_fa":"نگهداری کردن، حفظ کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":21,
     "word":"vital",
     "pronunciation": "/ˈvaɪtəl/",
@@ -187,8 +187,8 @@
     "meaning":"Lebenswichtig, Essenziell",
     "meaning_fa":"حیاتی، ضروری",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":22,
     "word":"responding",
     "pronunciation": "/rɪˈspɒndɪŋ/",
@@ -196,8 +196,8 @@
     "meaning":"Reagieren, Antworten",
     "meaning_fa":"پاسخ دادن، واکنش نشان دادن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":23,
     "word":"smooth",
     "pronunciation": "/smuːð/",
@@ -205,8 +205,8 @@
     "meaning":"Reibungslos, Sanft",
     "meaning_fa":"بدون مشکل، نرم",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":24,
     "word":"particularly",
     "pronunciation": "/pərˈtɪkjələrli/",
@@ -214,8 +214,8 @@
     "meaning":"Besonders, Insbesondere",
     "meaning_fa":"به‌ویژه، به‌خصوص",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":25,
     "word":"enforcing",
     "pronunciation": "/ɪnˈfɔːrsɪŋ/",
@@ -223,8 +223,8 @@
     "meaning":"Durchsetzen, Erzwingen",
     "meaning_fa":"اجرا کردن، تحمیل کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":26,
     "word":"applied",
     "pronunciation": "/əˈplaɪd/",
@@ -232,17 +232,17 @@
     "meaning":"Angewendet, Praktisch",
     "meaning_fa":"کاربردی، عملی",
     "category":"general"
-    },
-    {
-        "id":27,
-        "word":"interact",
-        "pronunciation": "/ˌɪntərˈækt/",
-        "example": "Students are encouraged to interact with each other during group work.",
-        "meaning":"Interagieren, Wechselwirkung",
-        "meaning_fa":"تعامل کردن، اثر متقابل",
-        "category":"general"
-    },
-    {
+  },
+  {
+    "id":27,
+    "word":"interact",
+    "pronunciation": "/ˌɪntərˈækt/",
+    "example": "Students are encouraged to interact with each other during group work.",
+    "meaning":"Interagieren, Wechselwirkung",
+    "meaning_fa":"تعامل کردن، اثر متقابل",
+    "category":"general"
+  },
+  {
     "id":28,
     "word":"foundational",
     "pronunciation": "/faʊnˈdeɪʃənl/",
@@ -250,17 +250,17 @@
     "meaning":"Grundlegend, Fundamentale",
     "meaning_fa":"اساسی، بنیادی",
     "category":"general"
-    },
-    {
-      "id":29,
-      "word":"maintaining",
-      "pronunciation": "/meɪnˈteɪnɪŋ/",
-      "example": "Maintaining a clean environment is important.",
-      "meaning":"Aufrechterhalten, Beibehalten",
-      "meaning_fa":"نگهداری، حفظ",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":29,
+    "word":"maintaining",
+    "pronunciation": "/meɪnˈteɪnɪŋ/",
+    "example": "Maintaining a clean environment is important.",
+    "meaning":"Aufrechterhalten, Beibehalten",
+    "meaning_fa":"نگهداری، حفظ",
+    "category":"general"
+  },
+  {
     "id":30,
     "word":"improper",
     "pronunciation": "/ɪmˈprɒpər/",
@@ -268,8 +268,8 @@
     "meaning":"Unangemessen, Unrechtmäßig",
     "meaning_fa":"نامناسب، غیرقانونی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":31,
     "word":"breaches",
     "pronunciation": "/ˈbriːtʃɪz/",
@@ -277,8 +277,8 @@
     "meaning":"Verstöße, Brüche",
     "meaning_fa":"نقض‌ ها، شکاف‌ ها",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":32,
     "word":"incidents",
     "pronunciation": "/ˈɪnsɪdənts/",
@@ -286,8 +286,8 @@
     "meaning":"Vorfälle, Ereignisse",
     "meaning_fa":"حادثه‌ها، رویدادها",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":33,
     "word":"associated",
     "pronunciation": "/əˈsoʊsiˌeɪtɪd/",
@@ -295,8 +295,8 @@
     "meaning":"Verbunden, Assoziiert",
     "meaning_fa":"مرتبط، وابسته",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":34,
     "word":"rather",
     "pronunciation": "/ˈræðər/",
@@ -304,8 +304,8 @@
     "meaning":"Eher, Stattdessen",
     "meaning_fa":"بیشتر، در عوض",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":35,
     "word":"established",
     "pronunciation": "/ɪˈstæblɪʃt/",
@@ -313,8 +313,8 @@
     "meaning":"Etabliert, Festgelegt",
     "meaning_fa":"تاسیس شده، تعیین شده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":36,
     "word":"copper",
     "pronunciation": "/ˈkɒpər/",
@@ -322,8 +322,8 @@
     "meaning":"Kupfer",
     "meaning_fa":"مس",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":37,
     "word":"twisted",
     "pronunciation": "/ˈtwɪstɪd/",
@@ -331,8 +331,8 @@
     "meaning":"Verdreht, Gedreht",
     "meaning_fa":"پیچ خورده، تاب خورده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":38,
     "word":"pair",
     "pronunciation": "/pɛr/",
@@ -340,8 +340,8 @@
     "meaning":"Paar, Zwei zusammengehörende Dinge",
     "meaning_fa":"جفت، دو چیز که به هم تعلق دارند",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":39,
     "word":"majority",
     "pronunciation": "/məˈdʒɔːrɪti/",
@@ -349,17 +349,17 @@
     "meaning":"Mehrheit, Größte Anzahl",
     "meaning_fa":"اکثریت، بیشترین تعداد",
     "category":"general"
-    },
-    {
-      "id":40,
-      "word":"purchase",
-      "pronunciation": "/ˈpɜːrʧəs/",
-      "example": "The purchase of the new equipment was approved.",
-      "meaning":"Kauf, Erwerb",
-      "meaning_fa":"خرید، تهیه",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":40,
+    "word":"purchase",
+    "pronunciation": "/ˈpɜːrʧəs/",
+    "example": "The purchase of the new equipment was approved.",
+    "meaning":"Kauf, Erwerb",
+    "meaning_fa":"خرید، تهیه",
+    "category":"general"
+  },
+  {
     "id":41,
     "word":"bonded",
     "pronunciation": "/ˈbɒndɪd/",
@@ -367,8 +367,8 @@
     "meaning":"Gebunden, Verbunden",
     "meaning_fa":"متصل، پیوسته",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":42,
     "word":"units",
     "pronunciation": "/ˈjuːnɪts/",
@@ -376,8 +376,8 @@
     "meaning":"Einheiten, Maßeinheiten",
     "meaning_fa":"واحدها، مقیاس‌ها",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":43,
     "word":"chunks of data",
     "pronunciation": "/ʧʌŋks əv ˈdeɪtə/",
@@ -385,8 +385,8 @@
     "meaning":"Datenblöcke, Teile von Daten",
     "meaning_fa":"بخش‌های داده، قطعات داده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":44,
     "word":"interpret",
     "pronunciation": "/ɪnˈtɜːrprɪt/",
@@ -394,17 +394,17 @@
     "meaning":"Interpretieren, Deuten",
     "meaning_fa":"تفسیر کردن، معنی دادن",
     "category":"general"
-    },
-    {
-      "id":45,
-      "word":"there must be",
-      "pronunciation": "/ðɛr mʌst bi/",
-      "example": "There must be a reason for the delay in delivery.",
-      "meaning":"Es muss geben, Es sollte sein",
-      "meaning_fa":"باید وجود داشته باشد، باید باشد",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":45,
+    "word":"there must be",
+    "pronunciation": "/ðɛr mʌst bi/",
+    "example": "There must be a reason for the delay in delivery.",
+    "meaning":"Es muss geben, Es sollte sein",
+    "meaning_fa":"باید وجود داشته باشد، باید باشد",
+    "category":"general"
+  },
+  {
     "id":46,
     "word":"insolation",
     "pronunciation": "/ˌɪnsəˈleɪʃən/",
@@ -412,8 +412,8 @@
     "meaning":"Einstrahlung, Sonneneinstrahlung",
     "meaning_fa":"تابش خورشیدی، تابش نور خورشید",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":47,
     "word":"displacement",
     "pronunciation": "/dɪsˈpleɪsmənt/",
@@ -421,8 +421,8 @@
     "meaning":"Verschiebung, Verlagerung",
     "meaning_fa":"جابجایی، انتقال",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":48,
     "word":"wiring",
     "pronunciation": "/ˈwaɪərɪŋ/",
@@ -430,8 +430,8 @@
     "meaning":"Verdrahtung, Verkabelung",
     "meaning_fa":"سیم‌کشی، کابل‌کشی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":49,
     "word":"concentrate",
     "pronunciation": "/ˈkɒnsənˌtreɪt/",
@@ -439,8 +439,8 @@
     "meaning":"Konzentrieren, Fokussieren",
     "meaning_fa":"تمرکز کردن، متمرکز شدن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":50,
     "word":"seem",
     "pronunciation": "/siːm/",
@@ -448,8 +448,8 @@
     "meaning":"Scheinen, Anschein haben",
     "meaning_fa":"به نظر رسیدن، ظاهر داشتن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":51,
     "word":"circuitry",
     "pronunciation": "/ˈsɜːrkɪtri/",
@@ -457,8 +457,8 @@
     "meaning":"Schaltkreis, Verdrahtung",
     "meaning_fa":"مدار، سیم‌کشی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":52,
     "word":"consider",
     "pronunciation": "/kənˈsɪdər/",
@@ -466,17 +466,17 @@
     "meaning":"Berücksichtigen, In Betracht ziehen",
     "meaning_fa":"در نظر گرفتن، مد نظر قرار دادن",
     "category":"general"
-    },
-    {
-      "id":53,
-      "word":"collision",
-      "pronunciation": "/kəˈlɪʒən/",
-      "example": "The collision between the two cars caused significant damage.",
-      "meaning":"Kollision, Zusammenstoß",
-      "meaning_fa":"تصادف، برخورد",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":53,
+    "word":"collision",
+    "pronunciation": "/kəˈlɪʒən/",
+    "example": "The collision between the two cars caused significant damage.",
+    "meaning":"Kollision, Zusammenstoß",
+    "meaning_fa":"تصادف، برخورد",
+    "category":"general"
+  },
+  {
     "id":54,
     "word":"inserting",
     "pronunciation": "/ɪnˈsɜːrtɪŋ/",
@@ -484,8 +484,8 @@
     "meaning":"Einfügen, Einschieben",
     "meaning_fa":"وارد کردن، درج کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":55,
     "word":"refined",
     "pronunciation": "/rɪˈfaɪnd/",
@@ -493,8 +493,8 @@
     "meaning":"Verfeinert, Veredelt",
     "meaning_fa":"تصفیه شده، پالایش شده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":56,
     "word":"appliances",
     "pronunciation": "/əˈplaɪənsɪz/",
@@ -502,8 +502,8 @@
     "meaning":"Geräte, Apparate",
     "meaning_fa":"لوازم، دستگاه‌ها",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":57,
     "word":"underpin",
     "pronunciation": "/ˌʌndərˈpɪn/",
@@ -511,8 +511,8 @@
     "meaning":"Unterstützen, Untermauern",
     "meaning_fa":"پشتیبانی کردن، تقویت کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":58,
     "word":"contention",
     "pronunciation": "/kənˈtɛnʃən/",
@@ -520,8 +520,8 @@
     "meaning":"Auseinandersetzung, Streit",
     "meaning_fa":"اختلاف، منازعه",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":59,
     "word":"simultaneously",
     "pronunciation": "/ˌsɪməlˈteɪniəsli/",
@@ -529,8 +529,8 @@
     "meaning":"Gleichzeitig, Simultan",
     "meaning_fa":"به‌طور همزمان، هم‌زمان",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":60,
     "word":"flood",
     "pronunciation": "/flʌd/",
@@ -538,8 +538,8 @@
     "meaning":"Überschwemmung, Flut",
     "meaning_fa":"سیل، طغیانی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":61,
     "word":"intervention",
     "pronunciation": "/ˌɪntərˈvɛnʃən/",
@@ -547,8 +547,8 @@
     "meaning":"Intervention, Eingreifen",
     "meaning_fa":"مداخله، دخالت",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":62,
     "word":"supplied",
     "pronunciation": "/səˈplaɪd/",
@@ -556,8 +556,8 @@
     "meaning":"Geliefert, Bereitgestellt",
     "meaning_fa":"تأمین شده، فراهم شده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":63,
     "word":"accommodate",
     "pronunciation": "/əˈkɒmədeɪt/",
@@ -565,8 +565,8 @@
     "meaning":"Unterbringen, Anpassen",
     "meaning_fa":"جای دادن، سازگار کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":64,
     "word":"provisioning",
     "pronunciation": "/prəˈvɪʒənɪŋ/",
@@ -574,8 +574,8 @@
     "meaning":"Bereitstellung, Versorgung",
     "meaning_fa":"تأمین، فراهم‌سازی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":65,
     "word":"ordinary",
     "pronunciation": "/ˈɔːrdənəri/",
@@ -583,8 +583,8 @@
     "meaning":"Gewöhnlich, Normal",
     "meaning_fa":"معمولی، عادی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":66,
     "word":"draw up",
     "pronunciation": "/drɔː ʌp/",
@@ -592,8 +592,8 @@
     "meaning":"Entwerfen, Aufstellen",
     "meaning_fa":"طراحی کردن، تنظیم کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":67,
     "word":"usable",
     "pronunciation": "/ˈjuːzəbl/",
@@ -601,8 +601,8 @@
     "meaning":"Benutzbar, Einsetzbar",
     "meaning_fa":"قابل استفاده، قابل به کارگیری",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":68,
     "word":"ascertain",
     "pronunciation": "/ˌæsərˈteɪn/",
@@ -610,8 +610,8 @@
     "meaning":"Feststellen, Ermitteln",
     "meaning_fa":"مشخص کردن، تعیین کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":69,
     "word":"determine",
     "pronunciation": "/dɪˈtɜːrmɪn/",
@@ -619,8 +619,8 @@
     "meaning":"Bestimmen, Festlegen",
     "meaning_fa":"تعیین کردن، مشخص کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":70,
     "word":"consumption",
     "pronunciation": "/kənˈsʌmpʃən/",
@@ -628,8 +628,8 @@
     "meaning":"Verbrauch, Konsum",
     "meaning_fa":"مصرف، استفاده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":71,
     "word":"appropriate",
     "pronunciation": "/əˈproʊpriət/",
@@ -637,17 +637,17 @@
     "meaning":"Angemessen, Passend",
     "meaning_fa":"مناسب، صحیح",
     "category":"general"
-    },
-    {
-      "id":72,
-      "word":"therefore",
-      "pronunciation": "/ˈðɛrˌfɔr/",
-      "example": "The project was delayed; therefore, we need to adjust the timeline.",
-      "meaning":"Deshalb, Daher",
-      "meaning_fa":"بنابراین، از این رو",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":72,
+    "word":"therefore",
+    "pronunciation": "/ˈðɛrˌfɔr/",
+    "example": "The project was delayed; therefore, we need to adjust the timeline.",
+    "meaning":"Deshalb, Daher",
+    "meaning_fa":"بنابراین، از این رو",
+    "category":"general"
+  },
+  {
     "id":73,
     "word":"power capping",
     "pronunciation": "/ˈpaʊər ˈkæpɪŋ/",
@@ -655,8 +655,8 @@
     "meaning":"Leistungsbegrenzung",
     "meaning_fa":"محدودیت توان",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":74,
     "word":"exceed",
     "pronunciation": "/ɪkˈsiːd/",
@@ -664,35 +664,35 @@
     "meaning":"Übertreffen, Überschreiten",
     "meaning_fa":"فراتر رفتن، تجاوز کردن",
     "category":"general"
-    },
-    {
-      "id":75,
-      "word":"sustainability",
-      "pronunciation": "/səˌsteɪnəˈbɪlɪti/",
-      "example": "Sustainability is a key consideration in our project planning.",
-      "meaning":"Nachhaltigkeit",
-      "meaning_fa":"پایداری",
-      "category":"general"
-    },
-    {
-      "id":76,
-      "word":"convey",
-      "pronunciation": "/kənˈveɪ/",
-      "example": "The teacher used examples to convey the lesson's main points.",
-      "meaning":"Übermitteln, Vermitteln",
-      "meaning_fa":"انتقال دادن، رساندن",
-      "category":"general"
-    },
-    {
-      "id":77,
-      "word":"reason",
-      "pronunciation": "/ˈriːzən/",
-      "example": "The reason for the delay was unforeseen circumstances.",
-      "meaning":"Grund, Ursache",
-      "meaning_fa":"دلیل، علت",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":75,
+    "word":"sustainability",
+    "pronunciation": "/səˌsteɪnəˈbɪlɪti/",
+    "example": "Sustainability is a key consideration in our project planning.",
+    "meaning":"Nachhaltigkeit",
+    "meaning_fa":"پایداری",
+    "category":"general"
+  },
+  {
+    "id":76,
+    "word":"convey",
+    "pronunciation": "/kənˈveɪ/",
+    "example": "The teacher used examples to convey the lesson's main points.",
+    "meaning":"Übermitteln, Vermitteln",
+    "meaning_fa":"انتقال دادن، رساندن",
+    "category":"general"
+  },
+  {
+    "id":77,
+    "word":"reason",
+    "pronunciation": "/ˈriːzən/",
+    "example": "The reason for the delay was unforeseen circumstances.",
+    "meaning":"Grund, Ursache",
+    "meaning_fa":"دلیل، علت",
+    "category":"general"
+  },
+  {
     "id":78,
     "word":"intermittent",
     "pronunciation": "/ˌɪntərˈmɪtənt/",
@@ -700,8 +700,8 @@
     "meaning":"Unterbrochen, Zeitweise",
     "meaning_fa":"متناوب، گاه به گاه",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":79,
     "word":"causes",
     "pronunciation": "/ˈkɔːzɪz/",
@@ -709,8 +709,8 @@
     "meaning":"Ursachen",
     "meaning_fa":"علل",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":80,
     "word":"consonant",
     "pronunciation": "/ˈkɒnsənənt/",
@@ -718,8 +718,8 @@
     "meaning":"Konsonant",
     "meaning_fa":"حرف بی صدا",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":81,
     "word":"illness",
     "pronunciation": "/ˈɪlnəs/",
@@ -727,8 +727,8 @@
     "meaning":"Krankheit",
     "meaning_fa":"بیماری",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":82,
     "word":"sufficient",
     "pronunciation": "/səˈfɪʃənt/",
@@ -736,8 +736,8 @@
     "meaning":"Ausreichend, Genügend",
     "meaning_fa":"کافی، بسنده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":83,
     "word":"avoid",
     "pronunciation": "/əˈvɔɪd/",
@@ -745,8 +745,8 @@
     "meaning":"Vermeiden",
     "meaning_fa":"اجتناب کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":84,
     "word":"lose track of something",
     "pronunciation": "/luːz træk əv ˈsʌmθɪŋ/",
@@ -754,17 +754,17 @@
     "meaning":"Den Überblick verlieren",
     "meaning_fa":"گم کردن مسیر چیزی، از دست دادن ردیابی چیزی",
     "category":"general"
-    },
-    {
-      "id":85,
-      "word":"stomach",
-      "pronunciation": "/ˈstʌmək/",
-      "example": "He felt a sharp pain in his stomach.",
-      "meaning":"Magen",
-      "meaning_fa":"معده",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":85,
+    "word":"stomach",
+    "pronunciation": "/ˈstʌmək/",
+    "example": "He felt a sharp pain in his stomach.",
+    "meaning":"Magen",
+    "meaning_fa":"معده",
+    "category":"general"
+  },
+  {
     "id":86,
     "word":"procrastination",
     "pronunciation": "/prəˌkræstɪˈneɪʃən/",
@@ -772,8 +772,8 @@
     "meaning":"Aufschub",
     "meaning_fa":"به تعویق انداختن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":87,
     "word":"burning smells",
     "pronunciation": "/ˈbɜrnɪŋ smɛlz/",
@@ -781,8 +781,8 @@
     "meaning":"Brennende Gerüche",
     "meaning_fa":"بوی سوختگی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":88,
     "word":"bent pins",
     "pronunciation": "/bɛnt pɪnz/",
@@ -790,8 +790,8 @@
     "meaning":"Verbogene Stifte",
     "meaning_fa":"پین های خم شده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":89,
     "word":"soldering",
     "pronunciation": "/ˈsɒldərɪŋ/",
@@ -799,8 +799,8 @@
     "meaning":"Löten",
     "meaning_fa":"لحیم کاری",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":90,
     "word":"throttling",
     "pronunciation": "/ˈθrɒtəlɪŋ/",
@@ -808,8 +808,8 @@
     "meaning":"Drosselung",
     "meaning_fa":"کاهش سرعت",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":91,
     "word":"opportunity",
     "pronunciation": "/ˌɒpərˈtjuːnɪti/",
@@ -817,8 +817,8 @@
     "meaning":"Gelegenheit, Chance",
     "meaning_fa":"فرصت، شانس",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":92,
     "word":"rule out",
     "pronunciation": "/ruːl aʊt/",
@@ -826,8 +826,8 @@
     "meaning":"Ausschließen",
     "meaning_fa":"رد کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":93,
     "word":"accurate",
     "pronunciation": "/ˈækjərət/",
@@ -835,8 +835,8 @@
     "meaning":"Genau, präzise",
     "meaning_fa":"دقیق، درست",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":94,
     "word":"suddenly",
     "pronunciation": "/ˈsʌdənli/",
@@ -844,8 +844,8 @@
     "meaning":"Plötzlich, unerwartet",
     "meaning_fa":"ناگهان، به طور ناگهانی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":95,
     "word":"common",
     "pronunciation": "/ˈkɒmən/",
@@ -853,8 +853,8 @@
     "meaning":"Gemeinsam, verbreitet",
     "meaning_fa":"مشترک، رایج",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":96,
     "word":"indicator",
     "pronunciation": "/ˈɪndɪkeɪtə/",
@@ -862,26 +862,26 @@
     "meaning":"Anzeichen, Indikator",
     "meaning_fa":"نشانه، نشانگر",
     "category":"general"
-    },
-    {
-      "id":97,
-      "word":"vendor",
-      "pronunciation": "/ˈvɛndər/",
-      "example": "The vendor offered a wide range of products.",
-      "meaning":"Verkäufer, Anbieter",
-      "meaning_fa":"فروشنده، تأمین کننده",
-      "category":"general"
-    },
-    {
-      "id":98,
-      "word":"deprecate",
-      "pronunciation": "/ˈdɛprɪkeɪt/",
-      "example": "The software company decided to deprecate the old API.",
-      "meaning":"Abwerten, nicht mehr unterstützen",
-      "meaning_fa":"کاهش ارزش، دیگر پشتیبانی نمی شود",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":97,
+    "word":"vendor",
+    "pronunciation": "/ˈvɛndər/",
+    "example": "The vendor offered a wide range of products.",
+    "meaning":"Verkäufer, Anbieter",
+    "meaning_fa":"فروشنده، تأمین کننده",
+    "category":"general"
+  },
+  {
+    "id":98,
+    "word":"deprecate",
+    "pronunciation": "/ˈdɛprɪkeɪt/",
+    "example": "The software company decided to deprecate the old API.",
+    "meaning":"Abwerten, nicht mehr unterstützen",
+    "meaning_fa":"کاهش ارزش، دیگر پشتیبانی نمی شود",
+    "category":"general"
+  },
+  {
     "id":99,
     "word":"excessive",
     "pronunciation": "/ɪkˈsɛsɪv/",
@@ -889,8 +889,8 @@
     "meaning":"Übermäßig, Exzessiv",
     "meaning_fa":"بیش از حد، افراطی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":100,
     "word":"restricted",
     "pronunciation": "/rɪˈstrɪktɪd/",
@@ -898,8 +898,8 @@
     "meaning":"Eingeschränkt, Beschränkt",
     "meaning_fa":"محدود شده، محدود",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":101,
     "word":"proper",
     "pronunciation": "/ˈprɒpər/",
@@ -907,8 +907,8 @@
     "meaning":"Ordnungsgemäß, richtig",
     "meaning_fa":"به درستی، صحیح",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":102,
     "word":"reviewing",
     "pronunciation": "/rɪˈvjuːɪŋ/",
@@ -916,8 +916,8 @@
     "meaning":"Überprüfen, Durchsehen",
     "meaning_fa":"بررسی کردن، مرور کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":103,
     "word":"executive",
     "pronunciation": "/ɪɡˈzɛkjʊtɪv/",
@@ -925,8 +925,8 @@
     "meaning":"Exekutive, leitend",
     "meaning_fa":"مدیریت، اجرایی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":104,
     "word":"corporate",
     "pronunciation": "/ˈkɔːpərət/",
@@ -934,8 +934,8 @@
     "meaning":"Unternehmens-, korporativ",
     "meaning_fa":"شرکتی، سازمانی",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":105,
     "word":"gained",
     "pronunciation": "/ɡeɪnd/",
@@ -943,8 +943,8 @@
     "meaning":"Gewonnen, erlangt",
     "meaning_fa":"به دست آمده، کسب شده",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":106,
     "word":"aspiring",
     "pronunciation": "/əˈspaɪərɪŋ/",
@@ -952,35 +952,35 @@
     "meaning":"Streben, anstreben",
     "meaning_fa":"آرزو، تلاش",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":107,
     "word":"diverse",
     "pronunciation": "/daɪˈvɜːrs/",
-        "example": "The team is diverse, bringing together people from various backgrounds.",
-        "meaning":"Vielfältig, unterschiedlich",
-        "meaning_fa":"متنوع، گوناگون",
-        "category":"general"
-    },
-    {
-      "id":108,
-      "word":"measures",
-      "pronunciation": "/ˈmɛʒərz/",
-      "example": "The government implemented new measures to improve public safety.",
-      "meaning":"Maßnahmen, Maßnahmen",
-      "meaning_fa":"اقدامات، تدابیر",
-      "category":"general"
-    },
-    {
-      "id":109,
-      "word":"distinguishing",
-      "pronunciation": "/dɪˈstɪŋɡwɪʃɪŋ/",
-      "example": "The distinguishing feature of the product is its unique design.",
-      "meaning":"Unterscheidungs-, unterscheidend",
-      "meaning_fa":"تمایز، متمایز کننده",
-      "category":"general"
-    },
-    {
+    "example": "The team is diverse, bringing together people from various backgrounds.",
+    "meaning":"Vielfältig, unterschiedlich",
+    "meaning_fa":"متنوع، گوناگون",
+    "category":"general"
+  },
+  {
+    "id":108,
+    "word":"measures",
+    "pronunciation": "/ˈmɛʒərz/",
+    "example": "The government implemented new measures to improve public safety.",
+    "meaning":"Maßnahmen, Maßnahmen",
+    "meaning_fa":"اقدامات، تدابیر",
+    "category":"general"
+  },
+  {
+    "id":109,
+    "word":"distinguishing",
+    "pronunciation": "/dɪˈstɪŋɡwɪʃɪŋ/",
+    "example": "The distinguishing feature of the product is its unique design.",
+    "meaning":"Unterscheidungs-, unterscheidend",
+    "meaning_fa":"تمایز، متمایز کننده",
+    "category":"general"
+  },
+  {
     "id":110,
     "word":"interact",
     "pronunciation": "/ˌɪntərˈækt/",
@@ -988,8 +988,8 @@
     "meaning":"Interagieren, in Kontakt treten",
     "meaning_fa":"تعامل، ارتباط برقرار کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":111,
     "word":"allocate",
     "pronunciation": "/ˈæləˌkeɪt/",
@@ -997,26 +997,26 @@
     "meaning":"Zuweisen, bereitstellen",
     "meaning_fa":"اختصاص دادن، فراهم کردن",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":112,
     "word":"placement",
     "pronunciation": "/ˈpleɪsmənt/",
-        "example": "The placement of the equipment was carefully planned to optimize performance.",
-        "meaning":"Platzierung, Anordnung",
-        "meaning_fa":"قرارگیری، جایگذاری",
-        "category":"general"
-    },
-    {
-      "id":113,
-      "word":"indispensable",
-      "pronunciation": "/ˌɪndɪˈspɛnsəbl/",
-      "example": "The team leader is an indispensable part of the project.",
-      "meaning":"Unentbehrlich, unverzichtbar",
-      "meaning_fa":"غیرقابل‌جایگزینی، ضروری",
-      "category":"general"
-    },
-    {
+    "example": "The placement of the equipment was carefully planned to optimize performance.",
+    "meaning":"Platzierung, Anordnung",
+    "meaning_fa":"قرارگیری، جایگذاری",
+    "category":"general"
+  },
+  {
+    "id":113,
+    "word":"indispensable",
+    "pronunciation": "/ˌɪndɪˈspɛnsəbl/",
+    "example": "The team leader is an indispensable part of the project.",
+    "meaning":"Unentbehrlich, unverzichtbar",
+    "meaning_fa":"غیرقابل‌جایگزینی، ضروری",
+    "category":"general"
+  },
+  {
     "id":114,
     "word":"insights",
     "pronunciation": "/ˈɪnsaɪts/",
@@ -1024,8 +1024,8 @@
     "meaning":"Einblicke, Erkenntnisse",
     "meaning_fa":"بینش‌ها، درک‌ها",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":115,
     "word":"that being said",
     "pronunciation": "/ðæt ˈbiːɪŋ sɛd/",
@@ -1033,8 +1033,8 @@
     "meaning":"Das gesagt, sollten wir dennoch andere Optionen in Betracht ziehen.",
     "meaning_fa":"با این حال، باید گزینه‌های دیگر را نیز در نظر بگیریم.",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":116,
     "word":"assuming",
     "pronunciation": "/əˈsjuːmɪŋ/",
@@ -1042,26 +1042,26 @@
     "meaning":"Annehmen, voraussetzen",
     "meaning_fa":"فرض کردن، پیش‌فرض گرفتن",
     "category":"general"
-    },
-    {
-      "id":117,
-      "word":"dirt",
-      "pronunciation": "/dɪrt/",
-      "example": "The children played in the dirt.",
-      "meaning":"Dreck, Schmutz",
-      "meaning_fa":"کثافت، خاک",
-      "category":"general"
-    },
-    {
-      "id":118,
-      "word":"dirtiness",
-      "pronunciation": "/ˈdɪrtɪnəs/",
-      "example": "The dirtiness of the room was unacceptable.",
-      "meaning":"Schmutzigkeit, Unsauberkeit",
-      "meaning_fa":"کثیفی، ناپاکی",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":117,
+    "word":"dirt",
+    "pronunciation": "/dɪrt/",
+    "example": "The children played in the dirt.",
+    "meaning":"Dreck, Schmutz",
+    "meaning_fa":"کثافت، خاک",
+    "category":"general"
+  },
+  {
+    "id":118,
+    "word":"dirtiness",
+    "pronunciation": "/ˈdɪrtɪnəs/",
+    "example": "The dirtiness of the room was unacceptable.",
+    "meaning":"Schmutzigkeit, Unsauberkeit",
+    "meaning_fa":"کثیفی، ناپاکی",
+    "category":"general"
+  },
+  {
     "id":119,
     "word":"even",
     "pronunciation": "/ˈiːvən/",
@@ -1069,8 +1069,8 @@
     "meaning":"Sogar, selbst",
     "meaning_fa":"حتی، خود",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":120,
     "word":"debt",
     "pronunciation": "/dɛt/",
@@ -1078,8 +1078,8 @@
     "meaning":"Schuld, Verbindlichkeit",
     "meaning_fa":"بدهی، تعهد",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":121,
     "word":"susceptible",
     "pronunciation": "/səˈsɛptəbl/",
@@ -1087,17 +1087,17 @@
     "meaning":"Anfällig, empfänglich",
     "meaning_fa":"حساس، مستعد",
     "category":"general"
-    },
-    {
-      "id":122,
-      "word":"suffer",
-      "pronunciation": "/ˈsʌfər/",
-      "example": "Many people suffer from allergies in the spring.",
-      "meaning":"Leiden, ertragen",
-      "meaning_fa":"رنج بردن، تحمل کردن",
-      "category":"general"
-    },
-    {
+  },
+  {
+    "id":122,
+    "word":"suffer",
+    "pronunciation": "/ˈsʌfər/",
+    "example": "Many people suffer from allergies in the spring.",
+    "meaning":"Leiden, ertragen",
+    "meaning_fa":"رنج بردن، تحمل کردن",
+    "category":"general"
+  },
+  {
     "id":123,
     "word":"exploration",
     "pronunciation": "/ˌɛksplɔːˈreɪʃən/",
@@ -1105,8 +1105,8 @@
     "meaning":"Erforschung, Entdeckung",
     "meaning_fa":"اکتشاف، کشف",
     "category":"general"
-    },
-    {
+  },
+  {
     "id":124,
     "word":"delves",
     "pronunciation": "/dɛlvz/",
@@ -1114,581 +1114,680 @@
     "meaning":"Eintauchen, vertiefen",
     "meaning_fa":"غوطه‌ور شدن، عمیق شدن",
     "category":"general"
-    },
-    {
-      "id" :125,
-      "word":"gather",
-      "pronunciation": "/ˈɡæðər/",
-      "example": "We need to gather more information before making a decision.",
-      "meaning":"Versammeln, sammeln",
-      "meaning_fa":"جمع‌آوری، گردآوری",
-      "category":"general"
-    },
-    {
-      "id":126,
-      "word":"introduce",
-      "pronunciation": "/ˌɪntrəˈdjuːs/",
-      "example": "Let me introduce you to our new team member.",
-      "meaning":"Einführen, vorstellen",
-      "meaning_fa":"معرفی کردن، ارائه دادن",
-      "category":"general"
-    },
-    {
-      "id": 127,
-      "word":"enhancement",
-      "pronunciation": "/ɪnˈhænsmənt/",
-      "example": "The software update includes several enhancements.",
-      "meaning":"Verbesserung, Steigerung",
-      "meaning_fa":"بهبود، افزایش",
-      "category":"general"
-    },
-    {
-      "id" :128,
-      "word":"leverage",
-      "pronunciation": "/ˈlɛvərɪdʒ/",
-      "example": "We can leverage our existing resources to improve efficiency.",
-      "meaning":"Nutzen, Einfluss",
-      "meaning_fa":"استفاده، نفوذ",
-      "category":"general"
-    },
-    {
-      "id" :129,
-      "word":"encompasses",
-      "pronunciation": "/inˈkəmpəsɪz/",
-      "example": "The project encompasses a wide range of activities.",
-      "meaning":"Umfassen, beinhalten",
-      "meaning_fa":"شامل شدن، دربرگرفتن",
-      "category":"general"
-    },
-    {
-      "id" :130,
-      "word":"preventing",
-      "pronunciation": "/prɪˈvɛntɪŋ/",
-      "example": "Preventing accidents is a top priority for the safety team.",
-      "meaning":"Verhindern, vorbeugen",
-      "meaning_fa":"جلوگیری کردن، پیشگیری",
-      "category":"general"
-    },
-    {
-      "id" :131,
-      "word":"evident",
-      "pronunciation": "/ˈɛvɪdənt/",
-      "example": "The benefits of the new policy are evident in the results.",
-      "meaning":"Offensichtlich, klar",
-      "meaning_fa":"مشهود، واضح",
-      "category":"general"
-    },
-    {
-      "id" :132,
-      "word":"resilient",
-      "pronunciation": "rəˈzilēənt",
-      "example": "The community is resilient and has recovered quickly from the disaster.",
-      "meaning":"Widerstandsfähig, belastbar",
-      "meaning_fa":"مقاوم، انعطاف‌پذیر",
-      "category":"general"
-    },
-    {
-      "id" : 133,
-      "word":"sustain",
-      "pronunciation": "/səˈsteɪn/",
-      "example": "We need to sustain our efforts to achieve long-term success.",
-      "meaning":"Aufrechterhalten, unterstützen",
-      "meaning_fa":"حفظ کردن، پشتیبانی کردن",
-      "category":"general"
-    },
-    {
-      "id" : 134,
-      "word":"redeploying",
-      "pronunciation": "/ˌriːdɪˈplɔɪŋ/",
-      "example": "The company is redeploying resources to focus on new projects.",
-      "meaning":"Umverteilung, Neuzuordnung",
-      "meaning_fa":"توزیع مجدد، تخصیص مجدد",
-      "category":"general"
-    },
-    {
-      "id" : 135,
-      "word":"proficiency",
-      "pronunciation": "/prəˈfɪʃənsi/",
-      "example": "Her proficiency in multiple languages is impressive.",
-      "meaning":"Fähigkeit, Kompetenz",
-      "meaning_fa":"مهارت، صلاحیت",
-      "category":"general"
-    },
-    {
-     "id" :136,
-      "word":"consideration",
-      "pronunciation": "/kənˌsɪdəˈreɪʃən/",
-      "example": "The committee took several factors into consideration before making a decision.",
-      "meaning":"Berücksichtigung, Überlegung",
-      "meaning_fa":"ملاحظه، در نظر گرفتن",
-      "category":"general" 
-    },
-    {
-      "id":137,
-      "word":"involves",
-      "pronunciation": "/ɪnˈvɒlvz/",
-      "example": "The project involves multiple stakeholders and requires careful planning.",
-      "meaning":"Beteiligen, beinhaltet, einbeziehen",
-      "meaning_fa":"شامل شدن، درگیر کردن",
-      "category":"general"
-    },
-    {
-      "id":138,
-      "word":"preservation",
-      "pronunciation": "/ˌprɛzərˈveɪʃən/",
-      "example": "The preservation of historical sites is important for cultural heritage.",
-      "meaning":"Erhaltung, Bewahrung",
-      "meaning_fa":"حفظ، نگهداری",
-      "category":"general"
-    },
-    {
-      "id" :139,
-      "word":"suitable",
-      "pronunciation": "/ˈsuːtəbl/",
-      "example": "This software is suitable for both beginners and advanced users.",
-      "meaning":"Geeignet, passend",
-      "meaning_fa":"مناسب، صحیح",
-      "category":"general"
-    },
-    {
-      "id" :140,
-      "word":"obvious",
-      "pronunciation": "/ˈɒbviəs/",
-      "example": "The solution to the problem was obvious once we analyzed the data.",
-      "meaning":"Offensichtlich, klar",
-      "meaning_fa":"مشهود، واضح",
-      "category":"general"
-    },
-    {
-      "id" :141,
-      "word":"distros",
-      "pronunciation": "/ˈdɪstrəʊz/",
-      "example": "There are many Linux distros available, each with its own features.",
-      "meaning":"Distributionen, Distro",
-      "meaning_fa":"توزیع‌ها، دیسترو",
-      "category":"general"
-    },
-    {
-      "id" : 142,
-      "word":"distribution",
-      "pronunciation": "/ˌdɪstrɪˈbjuːʃən/",
-      "example": "The distribution of resources was managed efficiently.",
-      "meaning":"Verteilung, Distribution",
-      "meaning_fa":"توزیع، پخش",
-      "category":"general"
-    },
-    {
-      "id" : 143,
-      "word":"thereby",
-      "pronunciation": "/ˈðɛrbaɪ/",
-      "example": "The new policy was implemented, thereby improving efficiency.",
-      "meaning":"Dadurch, damit",
-      "meaning_fa":"بنابراین، به این ترتیب",
-      "category":"general"
-    },
-    {
-      "id" : 144,
-      "word":"emphasizes",
-      "pronunciation": "/ˈɛmfəsaɪzɪz/",
-      "example": "The report emphasizes the importance of data security.",
-      "meaning":"Betont, hervorhebt",
-      "meaning_fa":"تأکید می‌کند، برجسته می‌کند",
-      "category":"general"
-    },
-    {
-      "id" : 145,
-      "word":"exploit",
-      "pronunciation": "/ɪkˈsplɔɪt/",
-      "example": "The software was designed to exploit system vulnerabilities.",
-      "meaning":"Ausnutzen, ausbeuten",
-      "meaning_fa":"سوءاستفاده کردن، بهره‌برداری کردن",
-      "category":"general"
-    },
-    {
-      "id" : 146,
-      "word":"cornerstone",
-      "pronunciation": "/ˈkɔːrnərstoʊn/",
-      "example": "Trust is the cornerstone of any successful relationship.",
-      "meaning":"Grundpfeiler, Grundstein, Eckstein",
-      "meaning_fa":"سنگ بنای، اساس",
-      "category":"general"
-    },
-    {
-      "id" : 147,
-      "word":"possession",
-      "pronunciation": "/pəˈzɛʃən/",
-      "example": "The possession of illegal drugs is a serious offense.",
-      "meaning":"Besitz, Eigentum",
-      "meaning_fa":"مالکیت، دارایی",
-      "category":"general"
-    },
-    {
-      "id" : 148,
-      "word":"stolen",
-      "pronunciation": "/ˈstoʊlən/",
-      "example": "The stolen car was found abandoned in a parking lot.",
-      "meaning":"Gestohlen, entwendet",
-      "meaning_fa":"دزدیده شده، سرقت شده",
-      "category":"general"
-    },
-    {
-      "id" : 149,
-      "word":"compromised",
-      "pronunciation": "/ˈkɒmprəmaɪzd/",
-      "example": "The security breach compromised sensitive data.",
-      "meaning":"Kompromittiert, gefährdet",
-      "meaning_fa":"به خطر افتاده، آسیب دیده",
-      "category":"general"
-    },
-    {
-      "id" : 150,
-      "word":"interoperability",
-      "pronunciation": "/ˌɪntərˌɒpərəˈbɪləti/",
-      "example": "Interoperability between different systems is crucial for seamless communication.",
-      "meaning":"Interoperabilität, Kompatibilität",
-      "meaning_fa":"قابلیت همکاری، سازگاری",
-      "category":"general"
-    },
-    {
-      "id" : 151,
-      "word":"relies",
-      "pronunciation": "/rɪˈlaɪz/",
-      "example": "The success of the project relies on effective teamwork.",
-      "meaning":"Verlässt sich, angewiesen",
-      "meaning_fa":"متکی است، وابسته است",
-      "category":"general"
-    },
-    {
-      "id" : 152,
-      "word":"interception",
-      "pronunciation": "/ˌɪntərˈsɛpʃən/",
-      "example": "The interception of the message prevented a potential security breach.",
-      "meaning":"Abfangen, Unterbrechung",
-      "meaning_fa":"گرفتن، قطع ارتباط",
-      "category":"general"
-    },
-    {
-      "id" : 153,
-      "word":"Despite",
-      "pronunciation": "/dɪˈspaɪt/",
-      "example": "Despite the challenges, the team managed to complete the project on time.",
-      "meaning":"Trotz, ungeachtet",
-      "meaning_fa":"با وجود، علی‌رغم",
-      "category":"general"
-    },
-    {
-      "id" : 154,
-      "word":"confined",
-      "pronunciation": "/kənˈfaɪnd/",
-      "example": "The patient was confined to bed rest for a week.",
-      "meaning":"Begrenzt, eingeschränkt",
-      "meaning_fa":"محدود شده، محصور شده",
-      "category":"general"
-    },
-    {
-      "id" : 155,
-      "word":"realms",
-      "pronunciation": "/rɛlmz/",
-      "example": "The realms of science and technology are constantly evolving.",
-      "meaning":"Bereiche, Reiche",
-      "meaning_fa":"حوزه‌ها، قلمروها",
-      "category":"general"
-    },
-    {
-      "id" : 156,
-      "word":"adopted",
-      "pronunciation": "/əˈdɒptɪd/",
-      "example": "The company adopted a new policy to improve employee satisfaction.",
-      "meaning":"Angepasst, übernommen",
-      "meaning_fa":"پذیرفته شده، اتخاذ شده",
-      "category":"general"
-    },
-    {
-      "id" : 157,
-      "word":"equipping",
-      "pronunciation": "/ɪˈkwɪpɪŋ/",
-      "example": "The school is equipping classrooms with the latest technology.",
-      "meaning":"Ausrüsten, ausstatten",
-      "meaning_fa":"تجهیز کردن، آماده‌سازی",
-      "category":"general"
-    },
-    {
-      "id" : 158,
-      "word":"consciously",
-      "pronunciation": "/ˈkɒnʃəsli/",
-      "example": "She made a conscious effort to improve her time management skills.",
-      "meaning":"Bewusst, absichtlich",
-      "meaning_fa":"آگاهانه، عمدی",
-      "category":"general"
-    },
-    {
-      "id" : 159,
-      "word":"conscious",
-      "pronunciation": "/ˈkɒnʃəs/",
-      "example": "He was conscious of the impact his actions would have on the team.",
-      "meaning":"Bewusst, achtsam",
-      "meaning_fa":"آگاه، هوشیار",
-      "category":"general"
-    },
-    {
-      "id" : 160,
-      "word":"occupies",
-      "pronunciation": "/ˈɒkjʊpaɪz/",
-      "example": "The role of the manager occupies a central position in the organization.",
-      "meaning":"Besetzt, einnimmt",
-      "meaning_fa":"اشغال کردن، تصرف کردن",
-      "category":"general"
-    },
-    {
-      "id" : 161,
-      "word":"invokes",
-      "pronunciation": "/ɪnˈvoʊks/",
-      "example": "The software invokes several APIs to retrieve data.",
-      "meaning":"Aufruft, anruft",
-      "meaning_fa":"فراخوانی می‌کند، درخواست می‌کند",
-      "category":"general"
-    },
-    {
-      "id" : 162,
-      "word":"elevated",
-      "pronunciation": "/ˈɛlɪveɪtɪd/",
-      "example": "The elevated train provides a unique view of the city.",
-      "meaning":"Erhöht, angehoben",
-      "meaning_fa":"بالا رفته، بلند شده",
-      "category":"general"
-    },
-    {
-      "id" : 163,
-      "word":"distributed",
-      "pronunciation": "/dɪsˈtrɪbjuːtɪd/",
-      "example": "The distributed system allows for better resource management.",
-      "meaning":"Verteilt, verteilt",
-      "meaning_fa":"توزیع شده، پخش شده",
-      "category":"general"
-    },
-    {
-      "id" : 164,
-      "word":"assessed",
-      "pronunciation": "/əˈsɛst/",
-      "example": "The project's risks were assessed before proceeding.",
-      "meaning":"Bewertet, eingeschätzt",
-      "meaning_fa":"ارزیابی شده، تخمین زده شده",
-      "category":"general"
-    },
-    {
-      "id" : 165,
-      "word":"mentions",
-      "pronunciation": "/ˈmɛnʃənz/",
-      "example": "The report mentions several key findings from the research.",
-      "meaning":"Erwähnt, erwähnt",
-      "meaning_fa":"ذکر می‌کند، اشاره می‌کند",
-      "category":"general"
-    },
-    {
-      "id" : 166,
-      "word":"driving me crazy",
-      "pronunciation": "/ˈdraɪvɪŋ miː ˈkreɪzi/",
-      "example": "The constant noise from the construction site is driving me crazy.",
-      "meaning":"Macht mich verrückt",
-      "meaning_fa":"دارم دیوانه می‌شوم",
-      "category":"general"
-    },
-    {
-      "id" : 167,
-      "word":"it won't print",
-      "pronunciation": "/ɪt woʊnt prɪnt/",
-      "example": "The printer is malfunctioning; it won't print any documents.",
-      "meaning":"Es druckt nicht",
-      "meaning_fa":"پرینتر کار نمی‌کند",
-      "category":"general"
-    },
-    {
-      "id" : 168,
-      "word":"Don't bother",
-      "pronunciation": "/doʊnt ˈbɑːðər/",
-      "example": "Don't bother trying to fix it; it's beyond repair.",
-      "meaning":"Mach dir keine Mühe",
-      "meaning_fa":"زحمت نکش، تلاش نکن",
-      "category":"general"
-    },
-    {
-      "id" : 169,
-      "word":"obsolete",
-      "pronunciation": "/ˌɒbsəˈliːt/",
-      "example": "The technology is now considered obsolete and has been replaced by newer systems.",
-      "meaning":"Veraltet, obsolet",
-      "meaning_fa":"منسوخ، قدیمی",
-      "category":"general"
-    },
-    {
-      "id" : 170,
-      "word":"under suspicion",
-      "pronunciation": "/ˈʌndər səˈspɪʃən/",
-      "example": "The employee was under suspicion of leaking confidential information.",
-      "meaning":"Unter Verdacht",
-      "meaning_fa":"زیر سوال، مشکوک",
-      "category":"general"
-    },
-    {
-      "id" : 171,
-      "word":"precaution",
-      "pronunciation": "/prɪˈkɔːʃən/",
-      "example": "Taking precautions can help prevent accidents in the workplace.",
-      "meaning":"Vorsichtsmaßnahme, Vorsorge",
-      "meaning_fa":"اقدام احتیاطی، پیشگیری",
-      "category":"general"
-    },
-    {
-      "id" : 172,
-      "word":"anyway",
-      "pronunciation": "/ˈɛniweɪ/",
-      "example": "I didn't like the movie, but I went to see it anyway.",
-      "meaning":"Trotzdem, jedenfalls",
-      "meaning_fa":"به هر حال، در هر صورت",
-      "category":"general"
-    },
-    {
-      "id" : 173,
-      "word":"intercepts",
-      "pronunciation": "/ˈɪntərsɛpts/",
-      "example": "The security system intercepts unauthorized access attempts.",
-      "meaning":"Abfängt, unterbricht",
-      "meaning_fa":"گرفتن، قطع کردن",
-      "category":"general"
-    },
-    {
-      "id" : 174,
-      "word":"remediation",
-      "pronunciation": "/rɪˌmiːdiˈeɪʃən/",
-      "example": "The company implemented remediation measures to address the security vulnerabilities.",
-      "meaning":"Behebung, Sanierung",
-      "meaning_fa":"اصلاح، ترمیم",
-      "category":"general"
-    },
-    {
-      "id" : 175,
-      "word":"Conclusion",
-      "pronunciation": "/kənˈkluːʒən/",
-      "example": "In conclusion, the project was a success and met all objectives.",
-      "meaning":"Schlussfolgerung, Fazit",
-      "meaning_fa":"نتیجه‌گیری، جمع‌بندی",
-      "category":"general"
-    },
-    {
-      "id" : 176,
-      "word":"Prohibited",
-      "pronunciation": "/prəˈhɪbɪtɪd/",
-      "example": "Smoking is prohibited in all public buildings.",
-      "meaning":"Verboten, untersagt",
-      "meaning_fa":"ممنوع، غیرمجاز",
-      "category":"general"
-    },
-    {
-      "id" : 177,
-      "word":"inconvenience",
-      "pronunciation": "/ˌɪnkənˈviːniəns/",
-      "example": "We apologize for any inconvenience caused by the delay.",
-      "meaning":"Unannehmlichkeit, Unbequemlichkeit",
-      "meaning_fa":"ناراحتی، مزاحمت",
-      "category":"general"
-    },
-    {
-      "id" : 178,
-      "word":"concerned",
-      "pronunciation": "/kənˈsɜːrnd/",
-      "example": "The manager is concerned about the project's progress.",
-      "meaning":"Besorgt, betroffen",
-      "meaning_fa":"نگران، مربوط",
-      "category":"general"
-    },
-    {
-      "id" : 179,
-      "word":"occasionally",
-      "pronunciation": "/əˈkeɪʒənəli/",
-      "example": "We occasionally hold team-building events to improve morale.",
-      "meaning":"Gelegentlich, ab und zu",
-      "meaning_fa":"گاهی اوقات، گهگاه",
-      "category":"general"
-    },
-    {
-      "id" : 180,
-      "word":"infect",
-      "pronunciation": "/ɪnˈfɛkt/",
-      "example": "The virus can infect computers through malicious software.",
-      "meaning":"Infizieren, anstecken",
-      "meaning_fa":"آلوده کردن، عفونی کردن",
-      "category":"general"
-    },
-    {
-      "id" : 181,
-      "word":"realizes",
-      "pronunciation": "/ˈriːəlaɪzɪz/",
-      "example": "She realizes the importance of regular backups to prevent data loss.",
-      "meaning":"Erkennt, realisiert",
-      "meaning_fa":"درک می‌کند، متوجه می‌شود",
-      "category":"general"
-    },
-    {
-      "id" : 182,
-      "word":"participants",
-      "pronunciation": "/pɑːrˈtɪsɪpənts/",
-      "example": "The participants in the workshop shared their experiences and insights.",
-      "meaning":"Teilnehmer, Mitwirkende",
-      "meaning_fa":"شرکت‌کنندگان، مشارکت‌کنندگان",
-      "category":"general"
-    },
-    {
-      "id" : 183,
-      "word":"avoid distractions",
-      "pronunciation": "/əˈvɔɪd dɪsˈtrækʃənz/",
-      "example": "To be productive, it's important to avoid distractions while working.",
-      "meaning":"Ablenkungen vermeiden",
-      "meaning_fa":"از حواس‌پرتی‌ها پرهیز کنید",
-      "category":"general"
-    },
-    {
-      "id" : 184,
-      "word":"attempting",
-      "pronunciation": "/əˈtɛmptɪŋ/",
-      "example": "The team is attempting to resolve the issue as quickly as possible.",
-      "meaning":"Versuchen, versuchen",
-      "meaning_fa":"تلاش کردن، کوشش کردن",
-      "category":"general"
-    },
-    {
-      "id" : 185,
-      "word":"compliance",
-      "pronunciation": "/kəmˈplaɪəns/",
-      "example": "The company is committed to ensuring compliance with all regulations.",
-      "meaning":"Einhaltung, Konformität",
-      "meaning_fa":"رعایت، تطابق",
-      "category":"general"
-    },
-    {
-      "id" : 186,
-      "word":"a user claims",
-      "pronunciation": "/ə ˈjuːzər kleɪmz/",
-      "example": "A user claims that the software has improved their productivity.",
-      "meaning":"Ein Benutzer behauptet",
-      "meaning_fa":"یک کاربر ادعا می‌کند",
-      "category":"general"
-    },
-    {
-      "id" : 187,
-      "word":"instruct",
-      "pronunciation": "/ɪnˈstrʌkt/",
-      "example": "The teacher will instruct the students on how to use the new software.",
-      "meaning":"Anweisen, instruieren",
-      "meaning_fa":"دستور دادن، آموزش دادن",
-      "category":"general"
-    },
-    {
-      "id" : 188,
-      "word":"indicate",
-      "pronunciation": "/ˈɪndɪkeɪt/",
-      "example": "The data indicates a significant increase in sales over the last quarter.",
-      "meaning":"Anzeigen, hinweisen",
-      "meaning_fa":"نشان دادن، اشاره کردن",
-      "category":"general"
-    }
-  ]
+  },
+  {
+    "id" :125,
+    "word":"gather",
+    "pronunciation": "/ˈɡæðər/",
+    "example": "We need to gather more information before making a decision.",
+    "meaning":"Versammeln, sammeln",
+    "meaning_fa":"جمع‌آوری، گردآوری",
+    "category":"general"
+  },
+  {
+    "id":126,
+    "word":"introduce",
+    "pronunciation": "/ˌɪntrəˈdjuːs/",
+    "example": "Let me introduce you to our new team member.",
+    "meaning":"Einführen, vorstellen",
+    "meaning_fa":"معرفی کردن، ارائه دادن",
+    "category":"general"
+  },
+  {
+    "id": 127,
+    "word":"enhancement",
+    "pronunciation": "/ɪnˈhænsmənt/",
+    "example": "The software update includes several enhancements.",
+    "meaning":"Verbesserung, Steigerung",
+    "meaning_fa":"بهبود، افزایش",
+    "category":"general"
+  },
+  {
+    "id" :128,
+    "word":"leverage",
+    "pronunciation": "/ˈlɛvərɪdʒ/",
+    "example": "We can leverage our existing resources to improve efficiency.",
+    "meaning":"Nutzen, Einfluss",
+    "meaning_fa":"استفاده، نفوذ",
+    "category":"general"
+  },
+  {
+    "id" :129,
+    "word":"encompasses",
+    "pronunciation": "/inˈkəmpəsɪz/",
+    "example": "The project encompasses a wide range of activities.",
+    "meaning":"Umfassen, beinhalten",
+    "meaning_fa":"شامل شدن، دربرگرفتن",
+    "category":"general"
+  },
+  {
+    "id" :130,
+    "word":"preventing",
+    "pronunciation": "/prɪˈvɛntɪŋ/",
+    "example": "Preventing accidents is a top priority for the safety team.",
+    "meaning":"Verhindern, vorbeugen",
+    "meaning_fa":"جلوگیری کردن، پیشگیری",
+    "category":"general"
+  },
+  {
+    "id" :131,
+    "word":"evident",
+    "pronunciation": "/ˈɛvɪdənt/",
+    "example": "The benefits of the new policy are evident in the results.",
+    "meaning":"Offensichtlich, klar",
+    "meaning_fa":"مشهود، واضح",
+    "category":"general"
+  },
+  {
+    "id" :132,
+    "word":"resilient",
+    "pronunciation": "rəˈzilēənt",
+    "example": "The community is resilient and has recovered quickly from the disaster.",
+    "meaning":"Widerstandsfähig, belastbar",
+    "meaning_fa":"مقاوم، انعطاف‌پذیر",
+    "category":"general"
+  },
+  {
+    "id" : 133,
+    "word":"sustain",
+    "pronunciation": "/səˈsteɪn/",
+    "example": "We need to sustain our efforts to achieve long-term success.",
+    "meaning":"Aufrechterhalten, unterstützen",
+    "meaning_fa":"حفظ کردن، پشتیبانی کردن",
+    "category":"general"
+  },
+  {
+    "id" : 134,
+    "word":"redeploying",
+    "pronunciation": "/ˌriːdɪˈplɔɪŋ/",
+    "example": "The company is redeploying resources to focus on new projects.",
+    "meaning":"Umverteilung, Neuzuordnung",
+    "meaning_fa":"توزیع مجدد، تخصیص مجدد",
+    "category":"general"
+  },
+  {
+    "id" : 135,
+    "word":"proficiency",
+    "pronunciation": "/prəˈfɪʃənsi/",
+    "example": "Her proficiency in multiple languages is impressive.",
+    "meaning":"Fähigkeit, Kompetenz",
+    "meaning_fa":"مهارت، صلاحیت",
+    "category":"general"
+  },
+  {
+    "id" :136,
+    "word":"consideration",
+    "pronunciation": "/kənˌsɪdəˈreɪʃən/",
+    "example": "The committee took several factors into consideration before making a decision.",
+    "meaning":"Berücksichtigung, Überlegung",
+    "meaning_fa":"ملاحظه، در نظر گرفتن",
+    "category":"general"
+  },
+  {
+    "id":137,
+    "word":"involves",
+    "pronunciation": "/ɪnˈvɒlvz/",
+    "example": "The project involves multiple stakeholders and requires careful planning.",
+    "meaning":"Beteiligen, beinhaltet, einbeziehen",
+    "meaning_fa":"شامل شدن، درگیر کردن",
+    "category":"general"
+  },
+  {
+    "id":138,
+    "word":"preservation",
+    "pronunciation": "/ˌprɛzərˈveɪʃən/",
+    "example": "The preservation of historical sites is important for cultural heritage.",
+    "meaning":"Erhaltung, Bewahrung",
+    "meaning_fa":"حفظ، نگهداری",
+    "category":"general"
+  },
+  {
+    "id" :139,
+    "word":"suitable",
+    "pronunciation": "/ˈsuːtəbl/",
+    "example": "This software is suitable for both beginners and advanced users.",
+    "meaning":"Geeignet, passend",
+    "meaning_fa":"مناسب، صحیح",
+    "category":"general"
+  },
+  {
+    "id" :140,
+    "word":"obvious",
+    "pronunciation": "/ˈɒbviəs/",
+    "example": "The solution to the problem was obvious once we analyzed the data.",
+    "meaning":"Offensichtlich, klar",
+    "meaning_fa":"مشهود، واضح",
+    "category":"general"
+  },
+  {
+    "id" :141,
+    "word":"distros",
+    "pronunciation": "/ˈdɪstrəʊz/",
+    "example": "There are many Linux distros available, each with its own features.",
+    "meaning":"Distributionen, Distro",
+    "meaning_fa":"توزیع‌ها، دیسترو",
+    "category":"general"
+  },
+  {
+    "id" : 142,
+    "word":"distribution",
+    "pronunciation": "/ˌdɪstrɪˈbjuːʃən/",
+    "example": "The distribution of resources was managed efficiently.",
+    "meaning":"Verteilung, Distribution",
+    "meaning_fa":"توزیع، پخش",
+    "category":"general"
+  },
+  {
+    "id" : 143,
+    "word":"thereby",
+    "pronunciation": "/ˈðɛrbaɪ/",
+    "example": "The new policy was implemented, thereby improving efficiency.",
+    "meaning":"Dadurch, damit",
+    "meaning_fa":"بنابراین، به این ترتیب",
+    "category":"general"
+  },
+  {
+    "id" : 144,
+    "word":"emphasizes",
+    "pronunciation": "/ˈɛmfəsaɪzɪz/",
+    "example": "The report emphasizes the importance of data security.",
+    "meaning":"Betont, hervorhebt",
+    "meaning_fa":"تأکید می‌کند، برجسته می‌کند",
+    "category":"general"
+  },
+  {
+    "id" : 145,
+    "word":"exploit",
+    "pronunciation": "/ɪkˈsplɔɪt/",
+    "example": "The software was designed to exploit system vulnerabilities.",
+    "meaning":"Ausnutzen, ausbeuten",
+    "meaning_fa":"سوءاستفاده کردن، بهره‌برداری کردن",
+    "category":"general"
+  },
+  {
+    "id" : 146,
+    "word":"cornerstone",
+    "pronunciation": "/ˈkɔːrnərstoʊn/",
+    "example": "Trust is the cornerstone of any successful relationship.",
+    "meaning":"Grundpfeiler, Grundstein, Eckstein",
+    "meaning_fa":"سنگ بنای، اساس",
+    "category":"general"
+  },
+  {
+    "id" : 147,
+    "word":"possession",
+    "pronunciation": "/pəˈzɛʃən/",
+    "example": "The possession of illegal drugs is a serious offense.",
+    "meaning":"Besitz, Eigentum",
+    "meaning_fa":"مالکیت، دارایی",
+    "category":"general"
+  },
+  {
+    "id" : 148,
+    "word":"stolen",
+    "pronunciation": "/ˈstoʊlən/",
+    "example": "The stolen car was found abandoned in a parking lot.",
+    "meaning":"Gestohlen, entwendet",
+    "meaning_fa":"دزدیده شده، سرقت شده",
+    "category":"general"
+  },
+  {
+    "id" : 149,
+    "word":"compromised",
+    "pronunciation": "/ˈkɒmprəmaɪzd/",
+    "example": "The security breach compromised sensitive data.",
+    "meaning":"Kompromittiert, gefährdet",
+    "meaning_fa":"به خطر افتاده، آسیب دیده",
+    "category":"general"
+  },
+  {
+    "id" : 150,
+    "word":"interoperability",
+    "pronunciation": "/ˌɪntərˌɒpərəˈbɪləti/",
+    "example": "Interoperability between different systems is crucial for seamless communication.",
+    "meaning":"Interoperabilität, Kompatibilität",
+    "meaning_fa":"قابلیت همکاری، سازگاری",
+    "category":"general"
+  },
+  {
+    "id" : 151,
+    "word":"relies",
+    "pronunciation": "/rɪˈlaɪz/",
+    "example": "The success of the project relies on effective teamwork.",
+    "meaning":"Verlässt sich, angewiesen",
+    "meaning_fa":"متکی است، وابسته است",
+    "category":"general"
+  },
+  {
+    "id" : 152,
+    "word":"interception",
+    "pronunciation": "/ˌɪntərˈsɛpʃən/",
+    "example": "The interception of the message prevented a potential security breach.",
+    "meaning":"Abfangen, Unterbrechung",
+    "meaning_fa":"گرفتن، قطع ارتباط",
+    "category":"general"
+  },
+  {
+    "id" : 153,
+    "word":"Despite",
+    "pronunciation": "/dɪˈspaɪt/",
+    "example": "Despite the challenges, the team managed to complete the project on time.",
+    "meaning":"Trotz, ungeachtet",
+    "meaning_fa":"با وجود، علی‌رغم",
+    "category":"general"
+  },
+  {
+    "id" : 154,
+    "word":"confined",
+    "pronunciation": "/kənˈfaɪnd/",
+    "example": "The patient was confined to bed rest for a week.",
+    "meaning":"Begrenzt, eingeschränkt",
+    "meaning_fa":"محدود شده، محصور شده",
+    "category":"general"
+  },
+  {
+    "id" : 155,
+    "word":"realms",
+    "pronunciation": "/rɛlmz/",
+    "example": "The realms of science and technology are constantly evolving.",
+    "meaning":"Bereiche, Reiche",
+    "meaning_fa":"حوزه‌ها، قلمروها",
+    "category":"general"
+  },
+  {
+    "id" : 156,
+    "word":"adopted",
+    "pronunciation": "/əˈdɒptɪd/",
+    "example": "The company adopted a new policy to improve employee satisfaction.",
+    "meaning":"Angepasst, übernommen",
+    "meaning_fa":"پذیرفته شده، اتخاذ شده",
+    "category":"general"
+  },
+  {
+    "id" : 157,
+    "word":"equipping",
+    "pronunciation": "/ɪˈkwɪpɪŋ/",
+    "example": "The school is equipping classrooms with the latest technology.",
+    "meaning":"Ausrüsten, ausstatten",
+    "meaning_fa":"تجهیز کردن، آماده‌سازی",
+    "category":"general"
+  },
+  {
+    "id" : 158,
+    "word":"consciously",
+    "pronunciation": "/ˈkɒnʃəsli/",
+    "example": "She made a conscious effort to improve her time management skills.",
+    "meaning":"Bewusst, absichtlich",
+    "meaning_fa":"آگاهانه، عمدی",
+    "category":"general"
+  },
+  {
+    "id" : 159,
+    "word":"conscious",
+    "pronunciation": "/ˈkɒnʃəs/",
+    "example": "He was conscious of the impact his actions would have on the team.",
+    "meaning":"Bewusst, achtsam",
+    "meaning_fa":"آگاه، هوشیار",
+    "category":"general"
+  },
+  {
+    "id" : 160,
+    "word":"occupies",
+    "pronunciation": "/ˈɒkjʊpaɪz/",
+    "example": "The role of the manager occupies a central position in the organization.",
+    "meaning":"Besetzt, einnimmt",
+    "meaning_fa":"اشغال کردن، تصرف کردن",
+    "category":"general"
+  },
+  {
+    "id" : 161,
+    "word":"invokes",
+    "pronunciation": "/ɪnˈvoʊks/",
+    "example": "The software invokes several APIs to retrieve data.",
+    "meaning":"Aufruft, anruft",
+    "meaning_fa":"فراخوانی می‌کند، درخواست می‌کند",
+    "category":"general"
+  },
+  {
+    "id" : 162,
+    "word":"elevated",
+    "pronunciation": "/ˈɛlɪveɪtɪd/",
+    "example": "The elevated train provides a unique view of the city.",
+    "meaning":"Erhöht, angehoben",
+    "meaning_fa":"بالا رفته، بلند شده",
+    "category":"general"
+  },
+  {
+    "id" : 163,
+    "word":"distributed",
+    "pronunciation": "/dɪsˈtrɪbjuːtɪd/",
+    "example": "The distributed system allows for better resource management.",
+    "meaning":"Verteilt, verteilt",
+    "meaning_fa":"توزیع شده، پخش شده",
+    "category":"general"
+  },
+  {
+    "id" : 164,
+    "word":"assessed",
+    "pronunciation": "/əˈsɛst/",
+    "example": "The project's risks were assessed before proceeding.",
+    "meaning":"Bewertet, eingeschätzt",
+    "meaning_fa":"ارزیابی شده، تخمین زده شده",
+    "category":"general"
+  },
+  {
+    "id" : 165,
+    "word":"mentions",
+    "pronunciation": "/ˈmɛnʃənz/",
+    "example": "The report mentions several key findings from the research.",
+    "meaning":"Erwähnt, erwähnt",
+    "meaning_fa":"ذکر می‌کند، اشاره می‌کند",
+    "category":"general"
+  },
+  {
+    "id" : 166,
+    "word":"driving me crazy",
+    "pronunciation": "/ˈdraɪvɪŋ miː ˈkreɪzi/",
+    "example": "The constant noise from the construction site is driving me crazy.",
+    "meaning":"Macht mich verrückt",
+    "meaning_fa":"دارم دیوانه می‌شوم",
+    "category":"general"
+  },
+  {
+    "id" : 167,
+    "word":"it won't print",
+    "pronunciation": "/ɪt woʊnt prɪnt/",
+    "example": "The printer is malfunctioning; it won't print any documents.",
+    "meaning":"Es druckt nicht",
+    "meaning_fa":"پرینتر کار نمی‌کند",
+    "category":"general"
+  },
+  {
+    "id" : 168,
+    "word":"Don't bother",
+    "pronunciation": "/doʊnt ˈbɑːðər/",
+    "example": "Don't bother trying to fix it; it's beyond repair.",
+    "meaning":"Mach dir keine Mühe",
+    "meaning_fa":"زحمت نکش، تلاش نکن",
+    "category":"general"
+  },
+  {
+    "id" : 169,
+    "word":"obsolete",
+    "pronunciation": "/ˌɒbsəˈliːt/",
+    "example": "The technology is now considered obsolete and has been replaced by newer systems.",
+    "meaning":"Veraltet, obsolet",
+    "meaning_fa":"منسوخ، قدیمی",
+    "category":"general"
+  },
+  {
+    "id" : 170,
+    "word":"under suspicion",
+    "pronunciation": "/ˈʌndər səˈspɪʃən/",
+    "example": "The employee was under suspicion of leaking confidential information.",
+    "meaning":"Unter Verdacht",
+    "meaning_fa":"زیر سوال، مشکوک",
+    "category":"general"
+  },
+  {
+    "id" : 171,
+    "word":"precaution",
+    "pronunciation": "/prɪˈkɔːʃən/",
+    "example": "Taking precautions can help prevent accidents in the workplace.",
+    "meaning":"Vorsichtsmaßnahme, Vorsorge",
+    "meaning_fa":"اقدام احتیاطی، پیشگیری",
+    "category":"general"
+  },
+  {
+    "id" : 172,
+    "word":"anyway",
+    "pronunciation": "/ˈɛniweɪ/",
+    "example": "I didn't like the movie, but I went to see it anyway.",
+    "meaning":"Trotzdem, jedenfalls",
+    "meaning_fa":"به هر حال، در هر صورت",
+    "category":"general"
+  },
+  {
+    "id" : 173,
+    "word":"intercepts",
+    "pronunciation": "/ˈɪntərsɛpts/",
+    "example": "The security system intercepts unauthorized access attempts.",
+    "meaning":"Abfängt, unterbricht",
+    "meaning_fa":"گرفتن، قطع کردن",
+    "category":"general"
+  },
+  {
+    "id" : 174,
+    "word":"remediation",
+    "pronunciation": "/rɪˌmiːdiˈeɪʃən/",
+    "example": "The company implemented remediation measures to address the security vulnerabilities.",
+    "meaning":"Behebung, Sanierung",
+    "meaning_fa":"اصلاح، ترمیم",
+    "category":"general"
+  },
+  {
+    "id" : 175,
+    "word":"Conclusion",
+    "pronunciation": "/kənˈkluːʒən/",
+    "example": "In conclusion, the project was a success and met all objectives.",
+    "meaning":"Schlussfolgerung, Fazit",
+    "meaning_fa":"نتیجه‌گیری، جمع‌بندی",
+    "category":"general"
+  },
+  {
+    "id" : 176,
+    "word":"Prohibited",
+    "pronunciation": "/prəˈhɪbɪtɪd/",
+    "example": "Smoking is prohibited in all public buildings.",
+    "meaning":"Verboten, untersagt",
+    "meaning_fa":"ممنوع، غیرمجاز",
+    "category":"general"
+  },
+  {
+    "id" : 177,
+    "word":"inconvenience",
+    "pronunciation": "/ˌɪnkənˈviːniəns/",
+    "example": "We apologize for any inconvenience caused by the delay.",
+    "meaning":"Unannehmlichkeit, Unbequemlichkeit",
+    "meaning_fa":"ناراحتی، مزاحمت",
+    "category":"general"
+  },
+  {
+    "id" : 178,
+    "word":"concerned",
+    "pronunciation": "/kənˈsɜːrnd/",
+    "example": "The manager is concerned about the project's progress.",
+    "meaning":"Besorgt, betroffen",
+    "meaning_fa":"نگران، مربوط",
+    "category":"general"
+  },
+  {
+    "id" : 179,
+    "word":"occasionally",
+    "pronunciation": "/əˈkeɪʒənəli/",
+    "example": "We occasionally hold team-building events to improve morale.",
+    "meaning":"Gelegentlich, ab und zu",
+    "meaning_fa":"گاهی اوقات، گهگاه",
+    "category":"general"
+  },
+  {
+    "id" : 180,
+    "word":"infect",
+    "pronunciation": "/ɪnˈfɛkt/",
+    "example": "The virus can infect computers through malicious software.",
+    "meaning":"Infizieren, anstecken",
+    "meaning_fa":"آلوده کردن، عفونی کردن",
+    "category":"general"
+  },
+  {
+    "id" : 181,
+    "word":"realizes",
+    "pronunciation": "/ˈriːəlaɪzɪz/",
+    "example": "She realizes the importance of regular backups to prevent data loss.",
+    "meaning":"Erkennt, realisiert",
+    "meaning_fa":"درک می‌کند، متوجه می‌شود",
+    "category":"general"
+  },
+  {
+    "id" : 182,
+    "word":"participants",
+    "pronunciation": "/pɑːrˈtɪsɪpənts/",
+    "example": "The participants in the workshop shared their experiences and insights.",
+    "meaning":"Teilnehmer, Mitwirkende",
+    "meaning_fa":"شرکت‌کنندگان، مشارکت‌کنندگان",
+    "category":"general"
+  },
+  {
+    "id" : 183,
+    "word":"avoid distractions",
+    "pronunciation": "/əˈvɔɪd dɪsˈtrækʃənz/",
+    "example": "To be productive, it's important to avoid distractions while working.",
+    "meaning":"Ablenkungen vermeiden",
+    "meaning_fa":"از حواس‌پرتی‌ها پرهیز کنید",
+    "category":"general"
+  },
+  {
+    "id" : 184,
+    "word":"attempting",
+    "pronunciation": "/əˈtɛmptɪŋ/",
+    "example": "The team is attempting to resolve the issue as quickly as possible.",
+    "meaning":"Versuchen, versuchen",
+    "meaning_fa":"تلاش کردن، کوشش کردن",
+    "category":"general"
+  },
+  {
+    "id" : 185,
+    "word":"compliance",
+    "pronunciation": "/kəmˈplaɪəns/",
+    "example": "The company is committed to ensuring compliance with all regulations.",
+    "meaning":"Einhaltung, Konformität",
+    "meaning_fa":"رعایت، تطابق",
+    "category":"general"
+  },
+  {
+    "id" : 186,
+    "word":"a user claims",
+    "pronunciation": "/ə ˈjuːzər kleɪmz/",
+    "example": "A user claims that the software has improved their productivity.",
+    "meaning":"Ein Benutzer behauptet",
+    "meaning_fa":"یک کاربر ادعا می‌کند",
+    "category":"general"
+  },
+  {
+    "id" : 187,
+    "word":"instruct",
+    "pronunciation": "/ɪnˈstrʌkt/",
+    "example": "The teacher will instruct the students on how to use the new software.",
+    "meaning":"Anweisen, instruieren",
+    "meaning_fa":"دستور دادن، آموزش دادن",
+    "category":"general"
+  },
+  {
+    "id" : 188,
+    "word":"indicate",
+    "pronunciation": "/ˈɪndɪkeɪt/",
+    "example": "The data indicates a significant increase in sales over the last quarter.",
+    "meaning":"Anzeigen, hinweisen",
+    "meaning_fa":"نشان دادن، اشاره کردن",
+    "category":"general"
+  },
+  {
+    "id": 189,
+    "word":"unwanted",
+    "pronunciation": "/ʌnˈwɒntɪd/",
+    "example": "The email filter helps to block unwanted messages.",
+    "meaning":"Unerwünscht, ungewollt",
+    "meaning_fa":"ناخواسته، ناخواسته",
+    "category":"general"
+  },
+    {
+        "id": 190,
+        "word":"inadvertent",
+        "pronunciation": "/ˌɪnədˈvɜːrtənt/",
+        "example": "The inadvertent deletion of files caused significant data loss.",
+        "meaning": "Unbeabsichtigt, versehentlich",
+        "meaning_fa": "غیر عمدی، سهوی",
+        "category": "general"
+    },
+    {
+        "id": 191,
+        "word": "disquise",
+        "pronunciation": "/dɪsˈɡaɪz/",
+        "example": "He tried to disquise his identity by wearing a hat and sunglasses.",
+        "meaning": "Verkleidung, Tarnung,verschleierung",
+        "meaning_fa": "پوشش، استتار، تغییر چهره",
+        "category": "general"
+    },
+  {
+    "id": 192,
+    "word":"what poses",
+    "pronunciation": "/wʌt poʊzɪz/",
+    "example": "What poses a challenge for the team is the tight deadline.",
+    "meaning": "Was darstellt, was eine Herausforderung darstellt",
+    "meaning_fa": "چه چیزی چالشی برای تیم ایجاد می‌کند",
+    "category": "general"
+  },
+  {
+    "id": 193,
+    "word":"mitigate",
+    "pronunciation": "/ˈmɪtɪɡeɪt/",
+    "example": "The company implemented measures to mitigate the risks associated with the project.",
+    "meaning": "Mildern, abschwächen",
+    "meaning_fa": "کاهش دادن، تخفیف دادن",
+    "category": "general"
+  },
+  {
+    "id": 194,
+    "word":"safeguard",
+    "pronunciation": "/ˈseɪfɡɑːrd/",
+    "example": "The organization has implemented strict policies to safeguard sensitive information.",
+    "meaning": "Schützen, sichern",
+    "meaning_fa": "محافظت کردن، ایمن کردن",
+    "category": "general"
+  },
+  {
+    "id": 195,
+    "word":"adversaries",
+    "pronunciation": "/ˈædvərˌsɛriz/",
+    "example": "The company must stay vigilant against potential adversaries in the market.",
+    "meaning": "Gegner, Feinde",
+    "meaning_fa": "رقبا، دشمنان",
+    "category": "general"
+  },
+  {
+    "id": 196,
+    "word":"greater",
+    "pronunciation": "/ˈɡreɪtər/",
+    "example": "The new strategy aims to achieve greater efficiency and productivity.",
+    "meaning": "Größer, größer",
+    "meaning_fa": "بزرگتر، بیشتر",
+    "category": "general"
+  },
+  {
+    "id": 197,
+    "word": "arbitrary",
+    "pronunciation": "/ˈɑːrbɪtrəri/",
+    "example": "The decision to change the project scope seemed arbitrary and lacked clear justification.",
+    "meaning": "Willkürlich, beliebig",
+    "meaning_fa": "دلخواه، خودسرانه",
+    "category": "general"
+  },
+  {
+    "id" : 198,
+    "word":"attract",
+    "pronunciation": "/əˈtrækt/",
+    "example": "The new marketing campaign aims to attract more customers.",
+    "meaning":"Anziehen, anlocken",
+    "meaning_fa":"جذب کردن، جذب",
+    "category":"general"
+  },
+  {
+    "id" : 199,
+    "word":"retention",
+    "pronunciation": "/rɪˈtɛnʃən/",
+    "example": "Employee retention is a key focus for the HR department.",
+    "meaning":"Bindung, Beibehaltung",
+    "meaning_fa":"نگهداری، حفظ",
+    "category":"general"
+  }
+]
