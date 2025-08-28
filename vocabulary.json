@@ -1789,5 +1789,167 @@
     "meaning":"Bindung, Beibehaltung",
     "meaning_fa":"نگهداری، حفظ",
     "category":"general"
+  },
+  {
+    "id" : 200,
+    "word":"mentioned",
+    "pronunciation": "/ˈmɛnʃənd/",
+    "example": "The report mentioned several important findings from the research.",
+    "meaning":"Erwähnt, erwähnt",
+    "meaning_fa":"ذکر شده، اشاره شده",
+    "category":"general"
+  },
+  {
+    "id" : 201,
+    "word":"sophisticated",
+    "pronunciation": "/səˈfɪstɪˌkeɪtɪd/",
+    "example": "The new software features a sophisticated user interface.",
+    "meaning":"Raffiniert, ausgeklügelt",
+    "meaning_fa":"پیشرفته، پیچیده",
+    "category":"general"
+  },
+  {
+    "id" : 202,
+    "word":"exploits",
+    "pronunciation": "/ɪkˈsplɔɪts/",
+    "example": "The software exploits vulnerabilities in the system to gain unauthorized access.",
+    "meaning":"Ausnutzt, ausbeutet",
+    "meaning_fa":"سوءاستفاده می‌کند، بهره‌برداری می‌کند",
+    "category":"general"
+  },
+  {
+    "id" : 203,
+    "word":"deception",
+    "pronunciation": "/dɪˈsɛpʃən/",
+    "example": "The company's deceptive marketing practices were exposed by a consumer watchdog.",
+    "meaning":"Täuschung, Betrug",
+    "meaning_fa":"فریب، نیرنگ",
+    "category":"general"
+  },
+  {
+    "id" : 204,
+    "word":"exfiltration",
+    "pronunciation": "/ˌɛksfɪlˈtreɪʃən/",
+    "example": "The security team detected an attempt at data exfiltration from the network.",
+    "meaning":"Exfiltration, Abfluss",
+    "meaning_fa":"خروج اطلاعات، استخراج",
+    "category":"general"
+  },
+  {
+    "id" : 205,
+    "word":"adversary",
+    "pronunciation": "/ˈædvərˌsɛri/",
+    "example": "The company must stay vigilant against potential adversaries in the market.",
+    "meaning":"Gegner, Feind",
+    "meaning_fa":"رقیب، دشمن",
+    "category":"general"
+  },
+  {
+    "id" : 206,
+    "word":"spear phishing",
+    "pronunciation": "/spɪər ˈfɪʃɪŋ/",
+    "example": "Spear phishing attacks target specific individuals or organizations with personalized messages.",
+    "meaning":"Gezieltes Phishing",
+    "meaning_fa":"فیشینگ هدفمند",
+    "category":"general"
+  },
+  {
+    "id" : 207,
+    "word":"credential",
+    "pronunciation": "/krəˈdɛnʃəl/",
+    "example": "The user must provide valid credentials to access the system.",
+    "meaning":"Berechtigungsnachweis, Anmeldeinformationen",
+    "meaning_fa":"مدرک، گواهی‌نامه",
+    "category":"general"
+  },
+  {
+    "id" : 208,
+    "word":"resilience",
+    "pronunciation": "/rɪˈzɪliəns/",
+    "example": "The company's resilience in the face of challenges has been impressive.",
+    "meaning":"Widerstandsfähigkeit, Belastbarkeit",
+    "meaning_fa":"مقاومت، تاب‌آوری",
+    "category":"general"
+  },
+  {
+    "id" : 209,
+    "word":"neatly",
+    "pronunciation": "/ˈniːtli/",
+    "example": "The documents were neatly organized in labeled folders.",
+    "meaning":"Ordentlich, sauber",
+    "meaning_fa":"مرتب، منظم",
+    "category":"general"
+  },
+  {
+    "id" : 210,
+    "word":"approach",
+    "pronunciation": "/əˈproʊtʃ/",
+    "example": "The team is taking a new approach to solving the problem.",
+    "meaning":"Ansatz, Vorgehensweise",
+    "meaning_fa":"رویکرد، روش",
+    "category":"general"
+  },
+  {
+    "id" : 211,
+    "word":"affected",
+    "pronunciation": "/əˈfɛktɪd/",
+    "example": "The new policy affected all employees in the organization.",
+    "meaning":"Betroffen, beeinflusst",
+    "meaning_fa":"متأثر شده، تحت تأثیر قرار گرفته",
+    "category":"general"
+  },
+  {
+    "id" : 212,
+    "word":"unintended",
+    "pronunciation": "/ˌʌnɪnˈtɛndɪd/",
+    "example": "The unintended consequences of the decision were not anticipated.",
+    "meaning":"Unbeabsichtigt, ungewollt",
+    "meaning_fa":"غیر عمدی، ناخواسته",
+    "category":"general"
+  },
+  {
+    "id" : 213,
+    "word":"exfiltrate",
+    "pronunciation": "/ˌɛksˈfɪltreɪt/",
+    "example": "The hacker attempted to exfiltrate sensitive data from the network.",
+    "meaning":"Exfiltrieren, abfließen",
+    "meaning_fa":"استخراج کردن، خارج کردن",
+    "category":"general"
+  },
+  {
+    "id" : 214,
+    "word":"arise",
+    "pronunciation": "/əˈraɪz/",
+    "example": "Problems may arise if the project is not properly managed.",
+    "meaning":"Entstehen, auftreten",
+    "meaning_fa":"پدید آمدن، بوجود آمدن",
+    "category":"general"
+  },
+  {
+    "id" : 215,
+    "word":"decisions",
+    "pronunciation": "/dɪˈsɪʒənz/",
+    "example": "The manager is responsible for making important decisions for the team.",
+    "meaning":"Entscheidungen, Beschlüsse",
+    "meaning_fa":"تصمیمات، تصمیم‌گیری‌ها",
+    "category":"general"
+  },
+  {
+    "id" : 216,
+    "word":"widely",
+    "pronunciation": "/ˈwaɪdli/",
+    "example": "The new product has been widely adopted by customers.",
+    "meaning":"Weit verbreitet, allgemein",
+    "meaning_fa":"به طور گسترده، وسیع",
+    "category":"general"
+  },
+  {
+    "id" : 217,
+    "word":"unintentionally",
+    "pronunciation": "/ˌʌnɪnˈtɛnʃənəli/",
+    "example": "The software bug caused the system to crash unintentionally.",
+    "meaning":"Unbeabsichtigt, ungewollt",
+    "meaning_fa":"به طور غیر عمدی، ناخواسته",
+    "category":"general"
   }
 ]
